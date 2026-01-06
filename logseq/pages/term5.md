@@ -1,0 +1,3 @@
+- [Btech site](https://commons.bcit.ca/computing/btech/bsc-full-time/)
+- #inform-network-sec-7003
+-
