@@ -1,4 +1,0 @@
-- #passive
-	- Basically just viewing, not changing anything
-- #active
-	- actively changing data
