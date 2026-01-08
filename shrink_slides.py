@@ -63,7 +63,14 @@ def main():
             base_name, ext = os.path.splitext(filename)
             ext = ext.lower()
             
-            output_path = os.path.join(dirpath, base_name + ".md")
+            if ext not in ['.pdf', '.pptx']:
+                continue
+
+            mds_dir = os.path.join(dirpath, 'mds')
+            if not os.path.exists(mds_dir):
+                os.makedirs(mds_dir)
+
+            output_path = os.path.join(mds_dir, base_name + ".md")
             
             # Skip if output already exists
             if os.path.exists(output_path):
