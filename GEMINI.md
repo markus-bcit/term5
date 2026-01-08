@@ -32,3 +32,6 @@ Welcome to your Term 5 central dashboard. This file provides quick access to you
 ## 📝 Recent Activity
 - [x] Initialized shrunken markdown versions of all current lecture slides.
 - [x] Created `GEMINI.md` dashboard.
+
+## Added
+- Ignore the misc.md unless needed. It just contains miscellaneous commands text etc. 
