@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP-7082-Software-Engineering/SWE.md",
+                "file": "COMP-7071-Database-Design/Database.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SWE"
+              "title": "Database"
             }
           }
         ]
@@ -186,28 +186,30 @@
   },
   "active": "f70b858bdf4dd229",
   "lastOpenFiles": [
-    "COMP-7003-Introduction-to-Information-and-Network-Security/inform-network-sec-7003.md",
+    "git_sync.sh~",
+    "git_sync.sh",
+    "COMP-7071-Database-Design/week1/Table of Contents.html",
+    "COMP-7071-Database-Design/week1/SQL - No SQL.pdf",
+    "COMP-7071-Database-Design/week1/Course Outlines – BCIT-COMP 7071.pdf",
+    "Table of Contents.html",
+    "SQL - No SQL.pdf",
+    "Course Outlines – BCIT-COMP 7071.pdf",
+    "misc.md",
+    "imgs/Pasted image 20260107095453.png",
+    "COMP-7071-Database-Design/Database.md",
     "COMP-7082-Software-Engineering/SWE.md",
+    "COMP-7082-Software-Engineering/week1/Week2-Agile Software Engineering - COMP-7082-0 - Software Engineering - 92298.pdf",
+    "COMP-7082-Software-Engineering/week1/Week1-Software Prodcut - COMP-7082-0 - Software Engineering - 92298.pdf",
+    "COMP-7082-Software-Engineering/week1/Week2-Agile Software Engineering-Fatemeh.pptx",
+    "COMP-7003-Introduction-to-Information-and-Network-Security/inform-network-sec-7003.md",
     "MATH-7808-Calculus- for-Computing/Lecture 2.md",
     "COMP-7003-Introduction-to-Information-and-Network-Security/week1/Lab1.md",
     "MATH-7808-Calculus- for-Computing/Lecture 1.md",
     "Lab1.md",
-    "misc.md",
-    "COMP-7082-Software-Engineering/week14",
-    "COMP-7082-Software-Engineering/week13",
-    "COMP-7082-Software-Engineering/week12",
-    "COMP-7082-Software-Engineering/week11",
-    "COMP-7082-Software-Engineering/week10",
-    "COMP-7082-Software-Engineering/week9",
-    "COMP-7082-Software-Engineering/week8",
-    "COMP-7082-Software-Engineering/week7",
-    "COMP-7082-Software-Engineering/week6",
-    "COMP-7082-Software-Engineering/week5",
     "obsidian/Welcome.md",
     "Introduction-to-Information-and-Network-Security-COMP-7003/lab1/Lab1.md",
     "obsidian/Math/Lecture 1.md",
     "imgs/Pasted image 20260107095653.png",
-    "imgs/Pasted image 20260107095453.png",
     "Welcome.md",
     "Introduction-to-Information-and-Network-Security-COMP-7003/inform-network-sec-7003.md"
   ]
