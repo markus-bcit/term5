@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating-Systems-COMP-7035/OS.md",
+                "file": "Operating-Systems-COMP-7035/GEMINI-OS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OS"
+              "title": "GEMINI-OS"
             }
           }
         ],
@@ -225,8 +225,10 @@
   },
   "active": "fc363a485ec48301",
   "lastOpenFiles": [
-    "Calculus- for-Computing-MATH-7808/Lecture 3.md",
     "Operating-Systems-COMP-7035/OS.md",
+    "GEMINI.md~",
+    "Operating-Systems-COMP-7035/GEMINI-OS.md",
+    "Calculus- for-Computing-MATH-7808/Lecture 3.md",
     "DueDates.md",
     "Introduction-to-Information-and-Network-Security-COMP-7003/week1/lab1/01 - Lab 1 – Risk Path Practice Scenarios – 202610.pdf",
     "Calculus- for-Computing-MATH-7808/Lecture 2.md",
@@ -242,7 +244,6 @@
     "Introduction-to-Information-and-Network-Security-COMP-7003/week1/lab1/02-introduction-to-cybersecurity-lab-introduction.pdf",
     "Introduction-to-Information-and-Network-Security-COMP-7003/week1/lab1/01 - COMP 7003.pdf",
     "Introduction-to-Information-and-Network-Security-COMP-7003/week1/lab1/00 - COMP 7003.pdf",
-    "Introduction-to-Information-and-Network-Security-COMP-7003/week1/lab1/06-introduction-to-cybersecurity-job-readiness-companion.pdf",
     "Introduction-to-Information-and-Network-Security-COMP-7003/inform-network-sec-7003.md",
     "misc.md",
     "Software-Engineering-COMP-7082/SWE.md",
@@ -260,8 +261,6 @@
     "Introduction-to-Information-and-Network-Security-COMP-7003/week1/lab1/mds/01-introduction-to-cybersecurity-notes.md",
     "Introduction-to-Information-and-Network-Security-COMP-7003/week1/lab1/mds/05-introduction-to-cybersecurity-study-guide.md",
     "Introduction-to-Information-and-Network-Security-COMP-7003/week1/lab1/mds/00 - COMP 7003.md",
-    "Introduction-to-Information-and-Network-Security-COMP-7003/week1/lab1/mds/03-introduction-to-cybersecurity-lab.md",
-    "Introduction-to-Information-and-Network-Security-COMP-7003/week1/lab1/mds/06-introduction-to-cybersecurity-job-readiness-companion.md",
     "imgs/Pasted image 20260107095453.png",
     "imgs/Pasted image 20260107095653.png"
   ]

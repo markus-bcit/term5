@@ -33,5 +33,6 @@ Welcome to your Term 5 central dashboard. This file provides quick access to you
 - [x] Initialized shrunken markdown versions of all current lecture slides.
 - [x] Created `GEMINI.md` dashboard.
 
-## Added
+## Added by user
 - Ignore the misc.md unless needed. It just contains miscellaneous commands text etc. 
+- Any GEMINI-<class name>.md are instructions for you, these are added by me to help you understand some of the expectations of the class, for the respective class. 
