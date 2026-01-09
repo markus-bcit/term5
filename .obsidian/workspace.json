@@ -25,12 +25,14 @@
             "id": "68f3380e19d0079f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Calculus- for-Computing-MATH-7808/Lecture 2.md"
+                "file": "Operating-Systems-COMP-7035/week1/Lab1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Lecture 2"
+              "icon": "lucide-file",
+              "title": "Lab1"
             }
           },
           {
@@ -39,16 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GEMINI.md",
+                "file": "Operating-Systems-COMP-7035/_old/Operating Systems/Week 1 - Basic Elements of a Computer System.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GEMINI"
+              "title": "Week 1 - Basic Elements of a Computer System"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -223,8 +225,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fc363a485ec48301",
+  "active": "68f3380e19d0079f",
   "lastOpenFiles": [
+    "Operating-Systems-COMP-7035/_old/Operating Systems/Week 1 - Basic Elements of a Computer System.md",
+    "Operating-Systems-COMP-7035/week1/Lab1.md",
+    "imgs/Pasted image 20260109130658.png",
+    "imgs/Pasted image 20260109125800.png",
+    "imgs/Pasted image 20260109125714.png",
+    "Calculus-for-Computing-MATH-7808/Lecture 3.md",
+    "Calculus-for-Computing-MATH-7808/Lecture 2.md",
+    "Calculus-for-Computing-MATH-7808/Lecture 1.md",
+    "Calculus-for-Computing-MATH-7808",
+    "Operating-Systems-COMP-7035/OS.md",
+    "Operating-Systems-COMP-7035/week1/Lab1.pdf",
+    "Operating-Systems-COMP-7035/week1/Unconfirmed 172791.crdownload",
+    "GEMINI.md",
     "Operating-Systems-COMP-7035/GEMINI-OS.md",
     "GEMINI.md~",
     "Operating-Systems-COMP-7035/_old/Operating Systems/attachments/Pasted image 20251114145928.png",
@@ -234,9 +249,6 @@
     "Operating-Systems-COMP-7035/_old/Operating Systems/attachments/Pasted image 20251114143912.png",
     "Operating-Systems-COMP-7035/_old/Operating Systems/attachments/Pasted image 20251114143904.png",
     "Operating-Systems-COMP-7035/_old/Operating Systems/attachments/Pasted image 20251114143853.png",
-    "Operating-Systems-COMP-7035/_old/Operating Systems/attachments/Pasted image 20251114143842.png",
-    "Operating-Systems-COMP-7035/_old/Operating Systems/attachments/Pasted image 20251114143838.png",
-    "Operating-Systems-COMP-7035/_old/Operating Systems/attachments/Pasted image 20251114143829.png",
     "Operating-Systems-COMP-7035/_old/Operating Systems/attachments",
     "Operating-Systems-COMP-7035/_old/Operating Systems/Week 9 - Scheduling.md",
     "Operating-Systems-COMP-7035/_old/Operating Systems/Week 7 - Virtual Memory (cont.).md",
@@ -248,28 +260,18 @@
     "Operating-Systems-COMP-7035/_old/Operating Systems/Week 12 - Virtual Machines Security Cloud.md",
     "Operating-Systems-COMP-7035/_old/Operating Systems/Week 11 - File Managment.md",
     "Operating-Systems-COMP-7035/_old/Operating Systems/Week 10 - IO Management and Disk Scheduling.md",
-    "Operating-Systems-COMP-7035/_old/Operating Systems/Week 1 - Basic Elements of a Computer System.md",
     "Operating-Systems-COMP-7035/_old/Operating Systems/Untitled.md",
     "Operating-Systems-COMP-7035/_old/Operating Systems/Midterm Study Guide.md",
     "Operating-Systems-COMP-7035/_old/Operating Systems/Final Study Guide.md",
     "Operating-Systems-COMP-7035/_old/Operating Systems",
     "Operating-Systems-COMP-7035/_old",
-    "Operating-Systems-COMP-7035/OS.md",
     "Calculus- for-Computing-MATH-7808/Lecture 3.md",
     "DueDates.md",
     "Introduction-to-Information-and-Network-Security-COMP-7003/week1/lab1/01 - Lab 1 – Risk Path Practice Scenarios – 202610.pdf",
     "Calculus- for-Computing-MATH-7808/Lecture 2.md",
     "Excalidraw/Drawing 2026-01-08 11.27.29.excalidraw.md",
-    "Excalidraw/Drawing 2026-01-08 11.27.35.excalidraw.md",
     "Excalidraw",
-    "Introduction-to-Information-and-Network-Security-COMP-7003/week1/Lab1.md",
-    "Introduction-to-Information-and-Network-Security-COMP-7003/week1/lab1/mds/01 - Lab 1 – Risk Path Practice Scenarios – 202610.md",
     "Introduction-to-Information-and-Network-Security-COMP-7003/week1/lab1/01-introduction-to-cybersecurity-notes.pdf",
-    "Introduction-to-Information-and-Network-Security-COMP-7003/week1/lab1/05-introduction-to-cybersecurity-study-guide.pdf",
-    "Introduction-to-Information-and-Network-Security-COMP-7003/week1/lab1/04-introduction-to-cybersecurity-lab-conclusion.pdf",
-    "Introduction-to-Information-and-Network-Security-COMP-7003/week1/lab1/03-introduction-to-cybersecurity-lab.pdf",
-    "Introduction-to-Information-and-Network-Security-COMP-7003/inform-network-sec-7003.md",
-    "misc.md",
     "Untitled.canvas"
   ]
 }

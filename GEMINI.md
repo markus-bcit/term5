@@ -36,4 +36,4 @@ Welcome to your Term 5 central dashboard. This file provides quick access to you
 ## Added by user
 - Ignore the misc.md unless needed. It just contains miscellaneous commands text etc. 
 - Any `GEMINI-<class name>.md` are instructions for you, these are added by me to help you understand some of the expectations of the class, for the respective class. 
-- Any `_old` dirs that are added are not mine, they're old notes from other classmates so take them with a grain of salt
+- Any `_old` dirs that are added are not mine, they're old notes from other classmates so take them with a grain of salt. Read these files first before going any deeper.
