@@ -11,30 +11,44 @@
             "id": "499c10535aaaae29",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Introduction-to-Information-and-Network-Security-COMP-7003/week1/lab1/01 - Lab 1 – Risk Path Practice Scenarios – 202610.pdf"
+                "file": "DueDates.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "01 - Lab 1 – Risk Path Practice Scenarios – 202610"
+              "icon": "lucide-file",
+              "title": "DueDates"
             }
           },
           {
             "id": "68f3380e19d0079f",
             "type": "leaf",
             "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Calculus- for-Computing-MATH-7808/Lecture 2.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Lecture 2"
+            }
+          },
+          {
+            "id": "fc363a485ec48301",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Introduction-to-Information-and-Network-Security-COMP-7003/week1/Lab1.md",
+                "file": "Operating-Systems-COMP-7035/OS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lab1"
+              "title": "OS"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -193,7 +207,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,14 +218,21 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
+      "bases:Create new base": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "68f3380e19d0079f",
+  "active": "fc363a485ec48301",
   "lastOpenFiles": [
+    "Calculus- for-Computing-MATH-7808/Lecture 3.md",
+    "Operating-Systems-COMP-7035/OS.md",
+    "DueDates.md",
     "Introduction-to-Information-and-Network-Security-COMP-7003/week1/lab1/01 - Lab 1 – Risk Path Practice Scenarios – 202610.pdf",
+    "Calculus- for-Computing-MATH-7808/Lecture 2.md",
+    "Excalidraw/Drawing 2026-01-08 11.27.29.excalidraw.md",
+    "Excalidraw/Drawing 2026-01-08 11.27.35.excalidraw.md",
+    "Excalidraw",
     "Introduction-to-Information-and-Network-Security-COMP-7003/week1/Lab1.md",
     "Introduction-to-Information-and-Network-Security-COMP-7003/week1/lab1/mds/01 - Lab 1 – Risk Path Practice Scenarios – 202610.md",
     "Introduction-to-Information-and-Network-Security-COMP-7003/week1/lab1/01-introduction-to-cybersecurity-notes.pdf",
@@ -222,7 +244,6 @@
     "Introduction-to-Information-and-Network-Security-COMP-7003/week1/lab1/00 - COMP 7003.pdf",
     "Introduction-to-Information-and-Network-Security-COMP-7003/week1/lab1/06-introduction-to-cybersecurity-job-readiness-companion.pdf",
     "Introduction-to-Information-and-Network-Security-COMP-7003/inform-network-sec-7003.md",
-    "Database-Design-COMP-7071/week1/SQL - No SQL.pdf",
     "misc.md",
     "Software-Engineering-COMP-7082/SWE.md",
     "Untitled.canvas",
@@ -241,11 +262,6 @@
     "Introduction-to-Information-and-Network-Security-COMP-7003/week1/lab1/mds/00 - COMP 7003.md",
     "Introduction-to-Information-and-Network-Security-COMP-7003/week1/lab1/mds/03-introduction-to-cybersecurity-lab.md",
     "Introduction-to-Information-and-Network-Security-COMP-7003/week1/lab1/mds/06-introduction-to-cybersecurity-job-readiness-companion.md",
-    "Introduction-to-Information-and-Network-Security-COMP-7003/week1/lab1/mds/04-introduction-to-cybersecurity-lab-conclusion.md",
-    "GEMINI.md",
-    "Software-Engineering-COMP-7082/week1/Week2-Agile Software Engineering-Fatemeh.md",
-    "Software-Engineering-COMP-7082/week1/Week2-Agile Software Engineering - COMP-7082-0 - Software Engineering - 92298.md",
-    "Software-Engineering-COMP-7082/week1/Week1-Software Prodcut-LH.md",
     "imgs/Pasted image 20260107095453.png",
     "imgs/Pasted image 20260107095653.png"
   ]
