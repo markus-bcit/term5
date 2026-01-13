@@ -11,12 +11,14 @@
             "id": "121e1e32295831c2",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Calculus-for-Computing-MATH-7808/Lecture 3.md"
+                "file": "Calculus-for-Computing-MATH-7808/Math.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Lecture 3"
+              "icon": "lucide-file",
+              "title": "Math"
             }
           },
           {
@@ -34,6 +36,20 @@
             }
           },
           {
+            "id": "f303a54ce1a00b9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calculus-for-Computing-MATH-7808/Math.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Math"
+            }
+          },
+          {
             "id": "6015402ee0ddf392",
             "type": "leaf",
             "state": {
@@ -45,8 +61,7 @@
               "title": "04-linux-basics-lab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -221,8 +236,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c0f94b03619fcb77",
+  "active": "121e1e32295831c2",
   "lastOpenFiles": [
+    "imgs/Pasted image 20260113120816.png",
+    "Calculus-for-Computing-MATH-7808/Lecture 3.md",
+    "Calculus-for-Computing-MATH-7808/Math.md",
+    "Introduction-to-Information-and-Network-Security-COMP-7003/inform-network-sec-7003.md",
     "Introduction-to-Information-and-Network-Security-COMP-7003/week2/Lab2.md",
     "Introduction-to-Information-and-Network-Security-COMP-7003/week2/lab2/04-linux-basics-lab.pdf",
     "Introduction-to-Information-and-Network-Security-COMP-7003/week2/lab2.md",
@@ -231,7 +250,6 @@
     "Introduction-to-Information-and-Network-Security-COMP-7003/week2/lab2/mds/05-linux-basics-lab-conclusion.md",
     "Introduction-to-Information-and-Network-Security-COMP-7003/week2/lab2/mds",
     "Introduction-to-Information-and-Network-Security-COMP-7003/week2/lab2/02-linux-basics-lab-introduction.pdf",
-    "Calculus-for-Computing-MATH-7808/Lecture 3.md",
     "Introduction-to-Information-and-Network-Security-COMP-7003/week2/lab2/Unconfirmed 803678.crdownload",
     "Introduction-to-Information-and-Network-Security-COMP-7003/week2/lab2/05-linux-basics-lab-conclusion.pdf",
     "Introduction-to-Information-and-Network-Security-COMP-7003/week2/lab2/Unconfirmed 128760.crdownload",
@@ -250,7 +268,6 @@
     "Operating-Systems-COMP-7035/week1/mds/Week1_part2.md",
     "Operating-Systems-COMP-7035/week1/mds/Week1_part1.md",
     "Operating-Systems-COMP-7035/week1/mds/Lab1.md",
-    "Introduction-to-Information-and-Network-Security-COMP-7003/inform-network-sec-7003.md",
     "Introduction-to-Information-and-Network-Security-COMP-7003/week1/Lab1.md",
     "DueDates.md",
     "Operating-Systems-COMP-7035/_old/Operating Systems/Week 1 - Basic Elements of a Computer System.md",
@@ -260,7 +277,6 @@
     "imgs/Pasted image 20260109125714.png",
     "Calculus-for-Computing-MATH-7808/Lecture 2.md",
     "Calculus-for-Computing-MATH-7808/Lecture 1.md",
-    "GEMINI.md",
     "Operating-Systems-COMP-7035/_old/Operating Systems/attachments/Pasted image 20251114145928.png",
     "Operating-Systems-COMP-7035/_old/Operating Systems/attachments/Pasted image 20251114145658.png",
     "Operating-Systems-COMP-7035/_old/Operating Systems/attachments/Pasted image 20251114143939.png",
