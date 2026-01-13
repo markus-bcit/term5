@@ -5,3 +5,4 @@
 
 ---
 Day 2
+went over bluetooth paper, talked about linux, key protocols etc.
