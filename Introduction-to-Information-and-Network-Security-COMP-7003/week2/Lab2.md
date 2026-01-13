@@ -25,44 +25,81 @@
 ```
 ❯ ps
     PID TTY          TIME CMD
-   5044 pts/0    00:00:00 fish
-  12777 pts/0    00:00:00 ps
+   4421 pts/0    00:00:00 fish
+   6930 pts/0    00:00:00 ps
 ```
-- PID:  `5044`
+- PID:  `4421`
 - TTY:  `pts/0`
 - Command name: `fish` 
 
 **Using `/proc` for that PID:**
-- Complete command line (`/proc/<PID>/cmdline`): `/proc/5044/cmdline`
-- Executable path (`/proc/<PID>/exe`): `/proc/5044/exe` 
-- Current working directory (`/proc/<PID>/cwd`): `/proc/5044/cwd`
-
-**Inspect open files (`/proc/<PID>/fd/`):**
-1. FD: ____ | Target: ____ | Representation: ____
-2. FD: ____ | Target: ____ | Representation: ____
-3. FD: ____ | Target: ____ | Representation: ____
+- Complete command line (`/proc/<PID>/cmdline`): 
+```
+❯ cat /proc/4421/cmdline
+fish
+```
+- Executable path (`/proc/<PID>/exe`): `/proc/4421/exe` 
+```
+❯ ls -al exe
+lrwxrwxrwx 1 markus markus 0 Jan 13 12:26 exe -> /usr/bin/fish*
+```
+- Current working directory (`/proc/<PID>/cwd`): `/proc/4421/cwd`
+```
+/proc/4421🔒 
+❯ ls -al cwd
+lrwxrwxrwx 1 markus markus 0 Jan 13 12:51 cwd -> /proc/4421/
+```
+**Inspect open files (`/proc/4421/fd/`):**
+1. 
+	- **FD**:  `0`  
+	- **Target**: `/dev/pts/0` 
+	- **Representation**: the terminal I'm using
+2. 
+	- **FD**:  `3`  
+	- **Target**:  `/proc/4421/fd/`
+	- **Representation**:  a network connection for a program
+3. 
+	- **FD**:  `4`  
+	- **Target**: `/run/user/1000/fish_universal_variables.notifier|`
+	- **Representation**: a data pipe to another program for notifications
 
 ### Prove process termination
-- New shell PID (via `pidof`): 
+- New shell PID (via `pidof`): `9608` 
 - PID/TTY verification: 
-- Terminal closed? [ ]
+```
+❯ ps
+    PID TTY          TIME CMD
+   9608 pts/2    00:00:00 fish
+   9938 pts/2    00:00:00 ps
+```
+- Terminal closed? [x]
 - `kill <PID> -0` fails? [ ]
+```
+❯ kill 4421
+kill: (4421): No such process
+```
 - `/proc/<PID>` exists? [ ]
+```
+❯ ls /proc/4421
+ls: cannot access '/proc/4421': No such file or directory
 
+```
 ---
 
 ## Step 3: Observe Idle Behaviour
-- Load averages (start): 
-- Load averages (end): 
-- Processes remain same? [ ]
+- Load averages (start): `load average: 0.62, 0.58, 0.62`
+- Load averages (end): `load average: 0.35, 0.51, 0.59`
+- Processes remain same? 
+	- No they've decreased a bit
 
 ---
 
 ## Step 4: Controlled CPU Pressure
 - Baseline `top` load/CPU: 
-- Workload CPU usage: 
-- Workload load averages: 
-- Load averages after stopping: 
+	- Around `4%` with top consumer being `obsidian` 
+- Workload CPU usage: `11.7%`
+- Workload load averages: `load average: 1.10, 0.66, 0.61`
+- Load averages after stopping: `load average: 0.49, 0.57, 0.59`
 
 **Risk Path (CPU):**
 Asset (____) -> Entry Point (____) -> Weak Spot (____) -> Damage (____)
