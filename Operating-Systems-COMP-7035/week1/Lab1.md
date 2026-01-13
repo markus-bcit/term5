@@ -9,8 +9,15 @@
 **2. What changes were observed to the registers and to the memory after running the program?**
 *(Note: Don’t include any memory addresses that change on compilation.)*
 
-**Answer:** The registers changed from all 0s to some values and the memory was updated.
+**Answer:** 
 
+Registers:
+       * r0: Changed to 0x1F
+       * r1: Changed to 0x5
+       * r2: Changed to 0x1A
+       * r3: Changed to 0x20
+   * Memory:
+       * The memory of answer changed to 0x1a
 ---
 
 ## Task 2: Observing Processes
@@ -60,8 +67,13 @@
 **9. Summarize your findings for the following from `man proc`:**
 
 *   **Process states:**
-    *   **Answer:**
+    *   **Answer:** 
+	    * R (running) - Running or waiting for the CPU 
+	    * S (sleeping) - Waiting for something, like I/O to complete
+	    * D (Disk sleeping) - Uninterruptible  Waiting for disk I/O to complete
+	    * Z (zombie) - Terminated but parent process hasn't received the exit code 
+	    * T (stopped) - Stopped by signal 
 *   **cmdline:**
-    *   **Answer:**
+    *   **Answer:**  Contains the complete command line for the process, including all args.
 *   **stat:**
-    *   **Answer:**
+    *   **Answer:** display status information about the process. 
