@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "e095ad54166bc1c9",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Calculus-for-Computing-MATH-7808/Lecture 5.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Lecture 5"
+            }
+          },
+          {
             "id": "57aec7ad8ae8573d",
             "type": "leaf",
             "state": {
@@ -58,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -229,16 +241,18 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "bases:Create new base": false
     }
   },
   "active": "59fdc802cb72125f",
   "lastOpenFiles": [
+    "Calculus-for-Computing-MATH-7808/Lecture 5.md",
+    "Introduction-to-Information-and-Network-Security-COMP-7003/week2/lab2/04-linux-basics-lab.pdf",
+    "Untitled.md",
+    "Calculus-for-Computing-MATH-7808/Lecture 4.md",
     "Calculus-for-Computing-MATH-7808/Math.md",
     "Calculus-for-Computing-MATH-7808/Lecture 3.md",
-    "Calculus-for-Computing-MATH-7808/Lecture 4.md",
-    "Introduction-to-Information-and-Network-Security-COMP-7003/week2/lab2/04-linux-basics-lab.pdf",
     "Introduction-to-Information-and-Network-Security-COMP-7003/week2/Lab2.md",
     "Introduction-to-Information-and-Network-Security-COMP-7003/week2/lab2/05-linux-basics-lab-conclusion.pdf",
     "Introduction-to-Information-and-Network-Security-COMP-7003/week1/Lab1_Markus_Afonso.pdf",
@@ -269,12 +283,9 @@
     "Introduction-to-Information-and-Network-Security-COMP-7003/week1/Lab1.md",
     "DueDates.md",
     "Operating-Systems-COMP-7035/_old/Operating Systems/Week 1 - Basic Elements of a Computer System.md",
-    "Operating-Systems-COMP-7035/week1/Lab1.md",
     "imgs/Pasted image 20260109130658.png",
     "imgs/Pasted image 20260109125800.png",
     "imgs/Pasted image 20260109125714.png",
-    "Calculus-for-Computing-MATH-7808/Lecture 2.md",
-    "Calculus-for-Computing-MATH-7808/Lecture 1.md",
     "Operating-Systems-COMP-7035/_old/Operating Systems/attachments/Pasted image 20251114145928.png",
     "Operating-Systems-COMP-7035/_old/Operating Systems/attachments/Pasted image 20251114145658.png",
     "Operating-Systems-COMP-7035/_old/Operating Systems/attachments/Pasted image 20251114143939.png",
