@@ -47,12 +47,14 @@
             "id": "e095ad54166bc1c9",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Calculus-for-Computing-MATH-7808/Lecture 5.md"
+                "file": "Database-Design-COMP-7071/Database.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Lecture 5"
+              "icon": "lucide-file",
+              "title": "Database"
             }
           },
           {
@@ -102,7 +104,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:lec",
+                "query": "file:swe",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -245,8 +247,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "59fdc802cb72125f",
+  "active": "e095ad54166bc1c9",
   "lastOpenFiles": [
+    "Software-Engineering-COMP-7082/SWE.md",
     "Calculus-for-Computing-MATH-7808/Lecture 5.md",
     "Introduction-to-Information-and-Network-Security-COMP-7003/week2/lab2/04-linux-basics-lab.pdf",
     "Untitled.md",
