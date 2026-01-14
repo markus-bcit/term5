@@ -23,12 +23,14 @@
             "id": "de69ea4ae4aaba7a",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Calculus-for-Computing-MATH-7808/Lecture 4.md"
+                "file": "Calculus-for-Computing-MATH-7808/Math.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Lecture 4"
+              "icon": "lucide-file",
+              "title": "Math"
             }
           },
           {
@@ -72,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -247,13 +249,20 @@
       "bases:Create new base": false
     }
   },
-  "active": "e095ad54166bc1c9",
+  "active": "de69ea4ae4aaba7a",
   "lastOpenFiles": [
-    "Software-Engineering-COMP-7082/SWE.md",
+    "Software-Engineering-COMP-7082/week2/mds/Features,scenarios and Stories-Fatemeh.md",
+    "Software-Engineering-COMP-7082/week2/mds",
+    "Software-Engineering-COMP-7082/week2/Features,scenarios and Stories-Fatemeh.pdf",
+    "Software-Engineering-COMP-7082/week2/lu9667t8pl.tmp",
+    "Software-Engineering-COMP-7082/week2/Table of Contents.html",
+    "Software-Engineering-COMP-7082/week2/Features,scenarios and Stories-Fatemeh.pptx",
     "Calculus-for-Computing-MATH-7808/Lecture 5.md",
+    "Calculus-for-Computing-MATH-7808/Lecture 4.md",
+    "Database-Design-COMP-7071/Database.md",
+    "Software-Engineering-COMP-7082/SWE.md",
     "Introduction-to-Information-and-Network-Security-COMP-7003/week2/lab2/04-linux-basics-lab.pdf",
     "Untitled.md",
-    "Calculus-for-Computing-MATH-7808/Lecture 4.md",
     "Calculus-for-Computing-MATH-7808/Math.md",
     "Calculus-for-Computing-MATH-7808/Lecture 3.md",
     "Introduction-to-Information-and-Network-Security-COMP-7003/week2/Lab2.md",
@@ -267,11 +276,6 @@
     "Introduction-to-Information-and-Network-Security-COMP-7003/week2/lab2/mds/05-linux-basics-lab-conclusion.md",
     "Introduction-to-Information-and-Network-Security-COMP-7003/week2/lab2/mds",
     "Introduction-to-Information-and-Network-Security-COMP-7003/week2/lab2/02-linux-basics-lab-introduction.pdf",
-    "Introduction-to-Information-and-Network-Security-COMP-7003/week2/lab2/Unconfirmed 803678.crdownload",
-    "Introduction-to-Information-and-Network-Security-COMP-7003/week2/lab2/Unconfirmed 128760.crdownload",
-    "Introduction-to-Information-and-Network-Security-COMP-7003/week2/lab2/Unconfirmed 614285.crdownload",
-    "Introduction-to-Information-and-Network-Security-COMP-7003/week2/lab2/DownloadAttachment.pdf",
-    "Introduction-to-Information-and-Network-Security-COMP-7003/week2/DownloadAttachment.pdf",
     "Operating-Systems-COMP-7035/OS.md",
     "Introduction-to-Information-and-Network-Security-COMP-7003/week2/mds/02 - COMP 7003.md",
     "Introduction-to-Information-and-Network-Security-COMP-7003/week2/mds/01-linux-basics-notes.md",
@@ -284,8 +288,6 @@
     "Operating-Systems-COMP-7035/week1/mds/Week1_part1.md",
     "Operating-Systems-COMP-7035/week1/mds/Lab1.md",
     "Introduction-to-Information-and-Network-Security-COMP-7003/week1/Lab1.md",
-    "DueDates.md",
-    "Operating-Systems-COMP-7035/_old/Operating Systems/Week 1 - Basic Elements of a Computer System.md",
     "imgs/Pasted image 20260109130658.png",
     "imgs/Pasted image 20260109125800.png",
     "imgs/Pasted image 20260109125714.png",
