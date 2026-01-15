@@ -37,3 +37,37 @@ Welcome to your Term 5 central dashboard. This file provides quick access to you
 - Ignore the misc.md unless needed. It just contains miscellaneous commands text etc. 
 - Any `GEMINI-<class name>.md` are instructions for you, these are added by me to help you understand some of the expectations of the class, for the respective class. 
 - Any `_old` dirs that are added are not mine, they're old notes from other classmates so take them with a grain of salt. Read these files first before going any deeper.
+- Don't read any .docx, .pptx, etc. files to reduce context, there'll be a converted markdown of the file, if not just highlight it and continue.
+- Your scope should stay within the provided class, don't read files from other classes unless specified, or ask if you think you'll need context beyond the specific class. 
+
+## ⚙️ Environment Setup & Troubleshooting
+
+### Database Setup (MySQL)
+- **Installation:** `sudo apt install mysql-server mysql-workbench`
+- **Secure Install:** `sudo mysql_secure_installation` (Enables/disables strict password plugin).
+- **Create User:**
+  ```sql
+  sudo mysql
+  CREATE USER 'markus'@'localhost' IDENTIFIED BY 'your_password';
+  GRANT ALL PRIVILEGES ON *.* TO 'markus'@'localhost' WITH GRANT OPTION;
+  FLUSH PRIVILEGES;
+  ```
+- **Neovim Connection String:** `mysql://markus:pass%40word@127.0.0.1:3306/db_name`
+  - **Note:** `%40` encodes the `@` symbol in passwords.
+
+### Neovim + Dadbod UI
+- **Leader Key:** Set to Space (`vim.g.mapleader = " "`) in `init.lua`.
+- **Key Mappings:**
+  - `<Leader>s` to run query (Shift+S is default).
+  - Map in `lua/mappings.lua`: `map("n", "<leader>s", "<cmd>DBUIExecuteQuery<CR>")`
+- **Troubleshooting:** If `:echo mapleader` returns nothing, check `vim.g.mapleader` is set **before** plugins load.
+
+### Shell (Fish)
+- **Config Path:** `~/.config/fish/config.fish`
+- **Add Path:** `fish_add_path /opt/nvim-linux-x86_64/bin`
+- **Aliases:**
+  ```fish
+  alias v='nvim'
+  alias vi='nvim'
+  ```
+- **Reload:** `source ~/.config/fish/config.fish`
