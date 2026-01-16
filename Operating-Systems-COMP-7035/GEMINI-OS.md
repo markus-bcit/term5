@@ -1,6 +1,37 @@
-Note: these are my notes about how the instructor is going to mark questions on the quizzes/tests, from what I've heard she;s very particular on definitions, i.e. if you miss a word then you might not even get partial marks
+# OS Quiz Prep & Observations
 
-- Heavy on exact definitions
-- Go into detail about communication (see service bus) "If it's right then you'll get full marks"
+This file tracks specific phrasing and patterns observed in quizzes/practice to match the instructor's strict expectations.
 
-This'll be updated as I've seen more questions on tests/quizzes
+## 📝 Observed Question Phrasing
+
+### 1. The ABI (Application Binary Interface)
+*   **Question Style:** "The ABI is the machine code that is executed. True or False?"
+*   **Correct Answer:** **False**.
+*   **Definition to remember:** The ABI is the **interface** (the boundary/standard) between the application and the OS/Hardware. It defines the system call interface and binary portability. It is **not** the code itself, but the *rules* for how that code interacts with the system.
+
+### 2. Memory Hierarchy Characteristics
+*   **Question Style:** "What is NOT a key characteristic of the memory hierarchy?" (Options might include: Speed/Access Time, Cost, Capacity, Function).
+*   **Key Concept:** The three trade-offs are **Cost, Capacity, and Access Time**. 
+*   **Keywords:**
+    *   **Decreasing** cost per bit.
+    *   **Increasing** capacity.
+    *   **Increasing** access time (slower).
+    *   **Decreasing** frequency of access.
+
+### 3. Interaction Languages/Standards
+*   **Question Style:** "What language/standard is used to interact with the machine/OS?"
+*   **Correct Term:** **JCL (Job Control Language)**.
+*   **Context:** Used in Batch Systems to provide instructions to the **Monitor** (the early OS).
+*   **Distractors to avoid:** 
+    *   **SMP** (Symmetric Multiprocessing) is a hardware architecture.
+    *   **ABI** is an interface standard.
+    *   **ISA** is the hardware/software boundary.
+
+## ⚠️ Critical Definitions (Word-for-Word)
+
+*   **Operating System:** A program that **controls the execution** of application programs and acts as an **interface** between applications and computer hardware.
+*   **Process:** A **program in execution**.
+*   **Reentrant:** Kernel routines must be **reentrant** to allow several processors to execute the same kernel code simultaneously.
+*   **Privileged Instructions:** Instructions that can **only be executed by the monitor (OS)**.
+*   **Time-Sharing Goal:** **Minimize response time**.
+*   **Batch Multiprogramming Goal:** **Maximize processor utilization**.

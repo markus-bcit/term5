@@ -4,24 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "542efd64941291a1",
+        "id": "e2c1f05a6fb83026",
         "type": "tabs",
         "children": [
           {
-            "id": "b1b40534cdb94ce0",
+            "id": "c31b22ea704bbab7",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Operating-Systems-COMP-7035/week2/lab2/Lab2.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Lab2"
+            }
+          },
+          {
+            "id": "63574981d458f2b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software-Engineering-COMP-7082/SWE.md",
-                "mode": "preview",
+                "file": "Operating-Systems-COMP-7035/week2/markus-afonso-lab-2.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SWE"
+              "title": "markus-afonso-lab-2"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:swe",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +87,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -197,33 +209,46 @@
       "bases:Create new base": false
     }
   },
-  "active": "b1b40534cdb94ce0",
+  "active": "63574981d458f2b6",
   "lastOpenFiles": [
+    "Operating-Systems-COMP-7035/week2/lab2/p2.c~",
+    "Operating-Systems-COMP-7035/week2/lab2/p1.c~",
+    "imgs/Pasted image 20260116132403.png",
+    "imgs/Pasted image 20260116132401 1.png",
+    "imgs/Pasted image 20260116132401.png",
+    "Operating-Systems-COMP-7035/week2/lab2/p4",
+    "imgs/Pasted image 20260116132343.png",
+    "Operating-Systems-COMP-7035/week2/lab2/p3",
+    "imgs/Pasted image 20260116132259.png",
+    "Operating-Systems-COMP-7035/week2/lab2/p2",
+    "imgs/Pasted image 20260116132103.png",
+    "Operating-Systems-COMP-7035/week2/lab2/p1",
+    "Operating-Systems-COMP-7035/week2/lab2/p4.c",
+    "Operating-Systems-COMP-7035/week2/lab2/p3.c",
+    "Operating-Systems-COMP-7035/week2/lab2/p2.c",
+    "Operating-Systems-COMP-7035/week2/lab2/p1.c",
+    "Operating-Systems-COMP-7035/week2/lab2/Lab2.pdf",
+    "Operating-Systems-COMP-7035/week2/markus-afonso-lab-2.md",
+    "Introduction-to-Information-and-Network-Security-COMP-7003/week2/mds/markus-afonso-lab2.md",
+    "Software-Engineering-COMP-7082/SWE.md",
+    "Operating-Systems-COMP-7035/OS.md",
+    "Operating-Systems-COMP-7035/_old/Operating Systems/Week 1 - Basic Elements of a Computer System.md",
+    "Operating-Systems-COMP-7035/_old/Operating Systems/Week 2 - Process.md",
+    "Software-Engineering-COMP-7082/week1/mds/example_proposals.md",
     "Operating-Systems-COMP-7035/Week1_Cram_Sheet.md",
-    "GEMINI.md~",
     "Database-Design-COMP-7071/week2/lab1/mds/MySQL Install_Mac_u.md",
     "Database-Design-COMP-7071/week2/lab1/mds/MySQL Install Windows.md",
-    "Database-Design-COMP-7071/week2/lab1/mds",
     "Database-Design-COMP-7071/week2/lab2/mds/Querying+the+Database+with+SELECT.md",
-    "Database-Design-COMP-7071/week2/lab2/mds",
     "Calculus-for-Computing-MATH-7808/Lecture 6.md",
-    "Database-Design-COMP-7071/week2/lab2/saleco_mysql.sql~",
     "Calculus-for-Computing-MATH-7808/Lecture 5.md",
     "Calculus-for-Computing-MATH-7808/Math.md",
     "Database-Design-COMP-7071/Database.md",
     "Calculus-for-Computing-MATH-7808/Lecture 3.md",
-    "Database-Design-COMP-7071/week2/lab2/Querying+the+Database+with+SELECT.pdf",
     "Database-Design-COMP-7071/week2/lab2/lab-2-markus-afonso.md",
     "Database-Design-COMP-7071/week1/lab-1-markus-afonso.md",
     "Database-Design-COMP-7071/week2/lab1/02_MySQL_Version_Command_Line.jpg",
     "Database-Design-COMP-7071/week2/lab1/01_MySQL_Version_Workbench.jpg",
-    "Database-Design-COMP-7071/week2/lab2/saleco_mysql.sql",
-    "Database-Design-COMP-7071/week2/lab2",
-    "Database-Design-COMP-7071/week2/lab1/MySQL Install Windows.pdf",
-    "Database-Design-COMP-7071/week2/lab1/MySQL Install_Mac_u.pdf",
-    "Database-Design-COMP-7071/week2/lab1",
     "Database-Design-COMP-7071/week2/mds/ch3.md",
-    "Operating-Systems-COMP-7035/_old/Operating Systems/Week 1 - Basic Elements of a Computer System.md",
     "Operating-Systems-COMP-7035/_old/Operating Systems/Untitled.md",
     "Operating-Systems-COMP-7035/_old/Operating Systems/Midterm Study Guide.md",
     "Operating-Systems-COMP-7035/_old/Operating Systems/Final Study Guide.md",
@@ -231,20 +256,7 @@
     "Software-Engineering-COMP-7082/pitch-presentation-7082-winter-2026dbgroup1/README.md",
     "Software-Engineering-COMP-7082/features-and-scenarios-2026dbgroup1/README.md",
     "Software-Engineering-COMP-7082/proposal-winter-7082-2026dbgroup1/images/trello.png",
-    "Software-Engineering-COMP-7082/proposal-winter-7082-2026dbgroup1/images/redteam.png",
-    "Software-Engineering-COMP-7082/proposal-winter-7082-2026dbgroup1/images/figma.png",
-    "Software-Engineering-COMP-7082/proposal-winter-7082-2026dbgroup1/images/epic-tree.png",
-    "Software-Engineering-COMP-7082/proposal-winter-7082-2026dbgroup1/images/epic-feature-tasks.png",
-    "Software-Engineering-COMP-7082/proposal-winter-7082-2026dbgroup1/images/Excel.png",
     "Software-Engineering-COMP-7082/proposal-winter-7082-2026dbgroup1/README.md",
-    "Software-Engineering-COMP-7082/week2/mds/Features,scenarios and Stories-Fatemeh.md",
-    "Calculus-for-Computing-MATH-7808/Lecture 4.md",
-    "Software-Engineering-COMP-7082/SWE.md",
-    "Untitled.md",
-    "Introduction-to-Information-and-Network-Security-COMP-7003/week2/Lab2.md",
-    "Introduction-to-Information-and-Network-Security-COMP-7003/inform-network-sec-7003.md",
-    "imgs/Pasted image 20260113120816.png",
-    "Introduction-to-Information-and-Network-Security-COMP-7003/week2/lab2.md",
     "Untitled.canvas"
   ]
 }
