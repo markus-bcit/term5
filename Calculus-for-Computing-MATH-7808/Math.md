@@ -8,3 +8,4 @@ study log and exp laws for quiz
 --- 
 **Qs**
 ![[Pasted image 20260113120816.png]]
+![[{FEFC43A5-A628-46E0-A76D-35B603E43471}.png]]
