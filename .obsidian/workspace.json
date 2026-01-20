@@ -4,52 +4,51 @@
     "type": "split",
     "children": [
       {
-        "id": "e2c1f05a6fb83026",
+        "id": "625b18899ad46ac4",
         "type": "tabs",
         "children": [
           {
-            "id": "c31b22ea704bbab7",
+            "id": "31afecc0d67ad465",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Operating-Systems-COMP-7035/week2/lab2/Lab2.pdf"
+                "file": "Introduction-to-Information-and-Network-Security-COMP-7003/week3/lab3/03-users-and-access-control-lab.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Lab2"
-            }
-          },
-          {
-            "id": "401735ed63d84030",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Introduction-to-Information-and-Network-Security-COMP-7003/week2/lab2/04-linux-basics-lab.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "04-linux-basics-lab"
+              "title": "03-users-and-access-control-lab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "2b59009acff96fda",
+        "id": "f7cb2b7c367d9df3",
         "type": "tabs",
         "children": [
           {
-            "id": "63574981d458f2b6",
+            "id": "c00d224dab14277f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introduction-to-Information-and-Network-Security-COMP-7003/week2/markus-afonso-lab-2.md",
+                "file": "Introduction-to-Information-and-Network-Security-COMP-7003/week3/markus-afonso-lab-3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "markus-afonso-lab-2"
+              "title": "markus-afonso-lab-3"
+            }
+          },
+          {
+            "id": "48a1b194958cac2a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Introduction-to-Information-and-Network-Security-COMP-7003/week3/03 - COMP 7003.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "03 - COMP 7003"
             }
           }
         ]
@@ -109,8 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "53d044354293fc19",
@@ -228,53 +226,52 @@
       "bases:Create new base": false
     }
   },
-  "active": "63574981d458f2b6",
+  "active": "c00d224dab14277f",
   "lastOpenFiles": [
-    "Introduction-to-Information-and-Network-Security-COMP-7003/week2/markus-afonso-lab-2.pdf",
-    "Introduction-to-Information-and-Network-Security-COMP-7003/week2/lab2/04-linux-basics-lab.pdf",
-    "Introduction-to-Information-and-Network-Security-COMP-7003/week2/markus-afonso-lab-2.md",
+    "Introduction-to-Information-and-Network-Security-COMP-7003/week3/lab3/03-users-and-access-control-lab.pdf",
+    "Introduction-to-Information-and-Network-Security-COMP-7003/week3/03 - COMP 7003.pdf",
+    "Introduction-to-Information-and-Network-Security-COMP-7003/week3/markus-afonso-lab-3.md",
+    "Software-Engineering-COMP-7082/SWE.md",
+    "Introduction-to-Information-and-Network-Security-COMP-7003/week3/lab3/02-users-and-access-control-lab-introduction.pdf",
+    "Introduction-to-Information-and-Network-Security-COMP-7003/week3/01-users-and-access-control-notes.pdf",
+    "Introduction-to-Information-and-Network-Security-COMP-7003/week3/06-users-and-groups-job-readiness-companion.pdf",
+    "Introduction-to-Information-and-Network-Security-COMP-7003/week3/05-users-and-access-control-study-guide.pdf",
+    "usermod.md",
+    "Introduction-to-Information-and-Network-Security-COMP-7003/week3/lab3/04-users-and-access-control-lab-conclusion.pdf",
+    "Introduction-to-Information-and-Network-Security-COMP-7003/week2/mds/markus-afonso-lab-2.md",
+    "Introduction-to-Information-and-Network-Security-COMP-7003/week3/lab3/mds/02-users-and-access-control-lab-introduction.md",
+    "Introduction-to-Information-and-Network-Security-COMP-7003/week3/lab3/mds/04-users-and-access-control-lab-conclusion.md",
+    "Introduction-to-Information-and-Network-Security-COMP-7003/week3/lab3/mds/03-users-and-access-control-lab.md",
+    "Introduction-to-Information-and-Network-Security-COMP-7003/week3/lab3/mds",
+    "Introduction-to-Information-and-Network-Security-COMP-7003/week3/mds/06-users-and-groups-job-readiness-companion.md",
+    "Introduction-to-Information-and-Network-Security-COMP-7003/week3/mds/03 - COMP 7003.md",
+    "Introduction-to-Information-and-Network-Security-COMP-7003/week3/mds/05-users-and-access-control-study-guide.md",
+    "Introduction-to-Information-and-Network-Security-COMP-7003/week3/mds/01-users-and-access-control-notes.md",
+    "Introduction-to-Information-and-Network-Security-COMP-7003/week3/mds",
+    "Operating-Systems-COMP-7035/week2/lab2/mds/Lab2.md",
+    "Operating-Systems-COMP-7035/week2/lab2/mds",
+    "Operating-Systems-COMP-7035/week2/mds/Week2_part2.md",
+    "Operating-Systems-COMP-7035/week2/mds/Week2_part1.md",
     "Introduction-to-Information-and-Network-Security-COMP-7003/inform-network-sec-7003.md",
+    "Calculus-for-Computing-MATH-7808/Math.md",
+    "Introduction-to-Information-and-Network-Security-COMP-7003/week2/markus-afonso-lab-2.md",
     "Operating-Systems-COMP-7035/week2/markus-afonso-lab-2.md",
-    "Operating-Systems-COMP-7035/week2/lab2/p2.c~",
-    "Operating-Systems-COMP-7035/week2/lab2/p1.c~",
     "imgs/Pasted image 20260116132403.png",
     "imgs/Pasted image 20260116132401 1.png",
     "imgs/Pasted image 20260116132401.png",
-    "Operating-Systems-COMP-7035/week2/lab2/p4",
     "imgs/Pasted image 20260116132343.png",
-    "Operating-Systems-COMP-7035/week2/lab2/p3",
     "imgs/Pasted image 20260116132259.png",
-    "Operating-Systems-COMP-7035/week2/lab2/p2",
     "imgs/Pasted image 20260116132103.png",
-    "Operating-Systems-COMP-7035/week2/lab2/p1",
-    "Operating-Systems-COMP-7035/week2/lab2/p4.c",
-    "Operating-Systems-COMP-7035/week2/lab2/p3.c",
-    "Operating-Systems-COMP-7035/week2/lab2/p2.c",
     "Introduction-to-Information-and-Network-Security-COMP-7003/week2/mds/markus-afonso-lab2.md",
-    "Software-Engineering-COMP-7082/SWE.md",
     "Operating-Systems-COMP-7035/OS.md",
     "Operating-Systems-COMP-7035/_old/Operating Systems/Week 1 - Basic Elements of a Computer System.md",
     "Operating-Systems-COMP-7035/_old/Operating Systems/Week 2 - Process.md",
     "Software-Engineering-COMP-7082/week1/mds/example_proposals.md",
     "Operating-Systems-COMP-7035/Week1_Cram_Sheet.md",
     "Database-Design-COMP-7071/week2/lab1/mds/MySQL Install_Mac_u.md",
-    "Database-Design-COMP-7071/week2/lab1/mds/MySQL Install Windows.md",
-    "Database-Design-COMP-7071/week2/lab2/mds/Querying+the+Database+with+SELECT.md",
-    "Calculus-for-Computing-MATH-7808/Lecture 6.md",
-    "Calculus-for-Computing-MATH-7808/Lecture 5.md",
-    "Calculus-for-Computing-MATH-7808/Math.md",
-    "Database-Design-COMP-7071/Database.md",
-    "Calculus-for-Computing-MATH-7808/Lecture 3.md",
-    "Database-Design-COMP-7071/week2/lab2/lab-2-markus-afonso.md",
-    "Database-Design-COMP-7071/week1/lab-1-markus-afonso.md",
     "Database-Design-COMP-7071/week2/lab1/02_MySQL_Version_Command_Line.jpg",
     "Database-Design-COMP-7071/week2/lab1/01_MySQL_Version_Workbench.jpg",
-    "Database-Design-COMP-7071/week2/mds/ch3.md",
-    "Operating-Systems-COMP-7035/_old/Operating Systems/Untitled.md",
-    "Operating-Systems-COMP-7035/_old/Operating Systems/Midterm Study Guide.md",
-    "Operating-Systems-COMP-7035/_old/Operating Systems/Final Study Guide.md",
     "Operating-Systems-COMP-7035/_old/Operating Systems/attachments/Pasted image 20250905133454.png",
-    "Software-Engineering-COMP-7082/pitch-presentation-7082-winter-2026dbgroup1/README.md",
     "Software-Engineering-COMP-7082/proposal-winter-7082-2026dbgroup1/images/trello.png",
     "Untitled.canvas"
   ]
