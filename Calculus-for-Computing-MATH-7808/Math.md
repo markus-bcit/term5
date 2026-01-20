@@ -8,4 +8,5 @@ study log and exp laws for quiz
 --- 
 **Qs**
 ![[Pasted image 20260113120816.png]]
-![[{FEFC43A5-A628-46E0-A76D-35B603E43471}.png]]
+![[{FEFC43A5-A628-46E0-A76D-35B603E43471}.png]] this one for sure ^^
+![[{463ACE16-2416-4C2B-807E-CF97EB4FC5B3}.png]]![[{5422DBDA-3FDC-4A85-B636-043E9557820A}.png]]![[{184D6C44-90E1-4C01-87C4-C9409FDF244F}.png]]
