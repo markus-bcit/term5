@@ -11,44 +11,12 @@
             "id": "31afecc0d67ad465",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "excalidraw",
               "state": {
-                "file": "Introduction-to-Information-and-Network-Security-COMP-7003/week3/lab3/03-users-and-access-control-lab.pdf"
+                "file": "Calculus-for-Computing-MATH-7808/Lecture 5.md"
               },
-              "icon": "lucide-file-text",
-              "title": "03-users-and-access-control-lab"
-            }
-          }
-        ]
-      },
-      {
-        "id": "f7cb2b7c367d9df3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c00d224dab14277f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Introduction-to-Information-and-Network-Security-COMP-7003/week3/markus-afonso-lab-3.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "markus-afonso-lab-3"
-            }
-          },
-          {
-            "id": "48a1b194958cac2a",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Introduction-to-Information-and-Network-Security-COMP-7003/week3/03 - COMP 7003.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "03 - COMP 7003"
+              "icon": "excalidraw-icon",
+              "title": "Lecture 5"
             }
           }
         ]
@@ -226,53 +194,54 @@
       "bases:Create new base": false
     }
   },
-  "active": "c00d224dab14277f",
+  "active": "31afecc0d67ad465",
   "lastOpenFiles": [
-    "Introduction-to-Information-and-Network-Security-COMP-7003/week3/lab3/03-users-and-access-control-lab.pdf",
-    "Introduction-to-Information-and-Network-Security-COMP-7003/week3/03 - COMP 7003.pdf",
-    "Introduction-to-Information-and-Network-Security-COMP-7003/week3/markus-afonso-lab-3.md",
+    "Calculus-for-Computing-MATH-7808/venv/lib/python3.14/site-packages/scipy-1.17.0.dist-info/RECORDmzpl0btp.tmp",
+    "Calculus-for-Computing-MATH-7808/venv/lib/python3.14/site-packages/scipy-1.17.0.dist-info/REQUESTED",
+    "Calculus-for-Computing-MATH-7808/venv/lib/python3.14/site-packages/scipy-1.17.0.dist-info/INSTALLER",
+    "Calculus-for-Computing-MATH-7808/venv/lib/python3.14/site-packages/scipy-1.17.0.dist-info/INSTALLERi0dzh8_y.tmp",
+    "Calculus-for-Computing-MATH-7808/venv/lib/python3.14/site-packages/scipy/__pycache__/version.cpython-314.pyc",
+    "Calculus-for-Computing-MATH-7808/venv/lib/python3.14/site-packages/scipy/stats/tests/__pycache__/test_variation.cpython-314.pyc",
+    "Calculus-for-Computing-MATH-7808/venv/lib/python3.14/site-packages/scipy/stats/tests/__pycache__/test_tukeylambda_stats.cpython-314.pyc",
+    "Calculus-for-Computing-MATH-7808/venv/lib/python3.14/site-packages/scipy/stats/tests/__pycache__/test_survival.cpython-314.pyc",
+    "Calculus-for-Computing-MATH-7808/venv/lib/python3.14/site-packages/scipy/stats/tests/__pycache__/test_stats.cpython-314.pyc",
+    "Calculus-for-Computing-MATH-7808/venv/lib/python3.14/site-packages/scipy/stats/tests/__pycache__/test_stats.cpython-314.pyc.131984531386032",
+    "Calculus-for-Computing-MATH-7808/venv/lib/python3.14/site-packages/scipy/stats/tests/__pycache__/test_sensitivity_analysis.cpython-314.pyc",
+    "Calculus-for-Computing-MATH-7808/venv/lib/python3.14/site-packages/scipy/ndimage/tests/dots.png",
+    "Calculus-for-Computing-MATH-7808/venv/lib/python3.14/site-packages/scipy/fft/_pocketfft/LICENSE.md",
+    "Calculus-for-Computing-MATH-7808/venv/lib/python3.14/site-packages/numpy-2.4.1.dist-info/licenses/numpy/_core/src/npysort/x86-simd-sort/LICENSE.md",
+    "Calculus-for-Computing-MATH-7808/venv/lib/python3.14/site-packages/numpy-2.4.1.dist-info/licenses/numpy/random/src/splitmix64/LICENSE.md",
+    "Calculus-for-Computing-MATH-7808/venv/lib/python3.14/site-packages/numpy-2.4.1.dist-info/licenses/numpy/random/src/sfc64/LICENSE.md",
+    "Calculus-for-Computing-MATH-7808/venv/lib/python3.14/site-packages/numpy-2.4.1.dist-info/licenses/numpy/random/src/philox/LICENSE.md",
+    "Calculus-for-Computing-MATH-7808/venv/lib/python3.14/site-packages/numpy-2.4.1.dist-info/licenses/numpy/random/src/pcg64/LICENSE.md",
+    "Calculus-for-Computing-MATH-7808/venv/lib/python3.14/site-packages/numpy-2.4.1.dist-info/licenses/numpy/random/src/mt19937/LICENSE.md",
+    "Calculus-for-Computing-MATH-7808/venv/lib/python3.14/site-packages/numpy-2.4.1.dist-info/licenses/numpy/random/src/distributions/LICENSE.md",
+    "Calculus-for-Computing-MATH-7808/venv/lib/python3.14/site-packages/numpy-2.4.1.dist-info/licenses/numpy/fft/pocketfft/LICENSE.md",
+    "Calculus-for-Computing-MATH-7808/venv/lib/python3.14/site-packages/numpy-2.4.1.dist-info/licenses/numpy/random/LICENSE.md",
+    "Calculus-for-Computing-MATH-7808/venv/lib/python3.14/site-packages/numpy/random/LICENSE.md",
+    "Calculus-for-Computing-MATH-7808/venv/lib/python3.14/site-packages/pip-25.3.dist-info/licenses/src/pip/_vendor/idna/LICENSE.md",
+    "Calculus-for-Computing-MATH-7808/venv/lib/python3.14/site-packages/pip/_vendor/idna/LICENSE.md",
+    "Calculus-for-Computing-MATH-7808/Lecture 6.md",
+    "Calculus-for-Computing-MATH-7808/Lecture 5.md",
     "Software-Engineering-COMP-7082/SWE.md",
-    "Introduction-to-Information-and-Network-Security-COMP-7003/week3/lab3/02-users-and-access-control-lab-introduction.pdf",
-    "Introduction-to-Information-and-Network-Security-COMP-7003/week3/01-users-and-access-control-notes.pdf",
-    "Introduction-to-Information-and-Network-Security-COMP-7003/week3/06-users-and-groups-job-readiness-companion.pdf",
-    "Introduction-to-Information-and-Network-Security-COMP-7003/week3/05-users-and-access-control-study-guide.pdf",
+    "Introduction-to-Information-and-Network-Security-COMP-7003/week3/markus-afonso-lab-3.md",
     "usermod.md",
-    "Introduction-to-Information-and-Network-Security-COMP-7003/week3/lab3/04-users-and-access-control-lab-conclusion.pdf",
     "Introduction-to-Information-and-Network-Security-COMP-7003/week2/mds/markus-afonso-lab-2.md",
     "Introduction-to-Information-and-Network-Security-COMP-7003/week3/lab3/mds/02-users-and-access-control-lab-introduction.md",
     "Introduction-to-Information-and-Network-Security-COMP-7003/week3/lab3/mds/04-users-and-access-control-lab-conclusion.md",
     "Introduction-to-Information-and-Network-Security-COMP-7003/week3/lab3/mds/03-users-and-access-control-lab.md",
-    "Introduction-to-Information-and-Network-Security-COMP-7003/week3/lab3/mds",
     "Introduction-to-Information-and-Network-Security-COMP-7003/week3/mds/06-users-and-groups-job-readiness-companion.md",
     "Introduction-to-Information-and-Network-Security-COMP-7003/week3/mds/03 - COMP 7003.md",
     "Introduction-to-Information-and-Network-Security-COMP-7003/week3/mds/05-users-and-access-control-study-guide.md",
-    "Introduction-to-Information-and-Network-Security-COMP-7003/week3/mds/01-users-and-access-control-notes.md",
-    "Introduction-to-Information-and-Network-Security-COMP-7003/week3/mds",
-    "Operating-Systems-COMP-7035/week2/lab2/mds/Lab2.md",
-    "Operating-Systems-COMP-7035/week2/lab2/mds",
-    "Operating-Systems-COMP-7035/week2/mds/Week2_part2.md",
-    "Operating-Systems-COMP-7035/week2/mds/Week2_part1.md",
-    "Introduction-to-Information-and-Network-Security-COMP-7003/inform-network-sec-7003.md",
-    "Calculus-for-Computing-MATH-7808/Math.md",
-    "Introduction-to-Information-and-Network-Security-COMP-7003/week2/markus-afonso-lab-2.md",
-    "Operating-Systems-COMP-7035/week2/markus-afonso-lab-2.md",
     "imgs/Pasted image 20260116132403.png",
     "imgs/Pasted image 20260116132401 1.png",
     "imgs/Pasted image 20260116132401.png",
     "imgs/Pasted image 20260116132343.png",
     "imgs/Pasted image 20260116132259.png",
     "imgs/Pasted image 20260116132103.png",
-    "Introduction-to-Information-and-Network-Security-COMP-7003/week2/mds/markus-afonso-lab2.md",
-    "Operating-Systems-COMP-7035/OS.md",
-    "Operating-Systems-COMP-7035/_old/Operating Systems/Week 1 - Basic Elements of a Computer System.md",
-    "Operating-Systems-COMP-7035/_old/Operating Systems/Week 2 - Process.md",
-    "Software-Engineering-COMP-7082/week1/mds/example_proposals.md",
-    "Operating-Systems-COMP-7035/Week1_Cram_Sheet.md",
-    "Database-Design-COMP-7071/week2/lab1/mds/MySQL Install_Mac_u.md",
     "Database-Design-COMP-7071/week2/lab1/02_MySQL_Version_Command_Line.jpg",
     "Database-Design-COMP-7071/week2/lab1/01_MySQL_Version_Workbench.jpg",
     "Operating-Systems-COMP-7035/_old/Operating Systems/attachments/Pasted image 20250905133454.png",
-    "Software-Engineering-COMP-7082/proposal-winter-7082-2026dbgroup1/images/trello.png",
     "Untitled.canvas"
   ]
 }
