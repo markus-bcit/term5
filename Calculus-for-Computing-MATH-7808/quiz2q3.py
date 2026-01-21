@@ -1,6 +1,7 @@
 import math
 
-def derivative(f, a, method='central', h=0.01):
+# from https://patrickwalls.github.io/mathematicalpython/differentiation/differentiation/
+def derivative(f, a, method='central', h=0.0001):
     if method == 'central':
         return (f(a + h) - f(a - h)) / (2 * h)
     elif method == 'forward':
@@ -12,17 +13,22 @@ def derivative(f, a, method='central', h=0.01):
 
 
 def f(x):
-    return math.exp(math.cos(math.sqrt(x) - math.sin(math.sqrt(x))))
+    return math.exp(math.cos(math.sqrt(x)) - math.sin(math.sqrt(x)))
 
 
-def bruteForce(xL, xR, prec):
+def bruteForce(xL, xR, prec, f):
     x = xL
-    df0 = 10
-    df1 = 10
-    while df0*df1 > 0:
-        df0 = derivative(prec, x)
-        x = x + prec(x)
-        df1 = derivative(prec, x)
-    return x - prec(x)/2
+    df0 = 1
+    df1 = 1
 
-print(bruteForce(1, 1, f))
+    while df0*df1 > 0:
+        df0 = derivative(f, x)
+        x = x + prec
+        df1 = derivative(f, x)
+    return x - prec/2
+
+print("Min: ", end='')
+print(bruteForce(1, 50, 0.0001, f))
+print("Max: ", end='')
+print(bruteForce(6, 50, 0.0001, f))
+

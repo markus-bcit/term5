@@ -4,19 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "625b18899ad46ac4",
+        "id": "347ad144a18b0ec8",
         "type": "tabs",
         "children": [
           {
-            "id": "31afecc0d67ad465",
+            "id": "8ab879db2911f7c2",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "pdf",
               "state": {
-                "file": "Calculus-for-Computing-MATH-7808/Lecture 5.md"
+                "file": "Database-Design-COMP-7071/week2/lab2/Querying+the+Database+with+SELECT.pdf"
               },
-              "icon": "excalidraw-icon",
-              "title": "Lecture 5"
+              "icon": "lucide-file-text",
+              "title": "Querying+the+Database+with+SELECT"
+            }
+          },
+          {
+            "id": "aa276d091be9a494",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Database-Design-COMP-7071/week2/lab2/Querying+the+Database+with+SELECT.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Querying+the+Database+with+SELECT"
             }
           }
         ]
@@ -194,19 +206,23 @@
       "bases:Create new base": false
     }
   },
-  "active": "31afecc0d67ad465",
+  "active": "8ab879db2911f7c2",
   "lastOpenFiles": [
+    "Database-Design-COMP-7071/week2/lab2/markus-afonso-lab-2.md",
+    "Database-Design-COMP-7071/week2/lab2/Querying+the+Database+with+SELECT.pdf",
+    "Introduction-to-Information-and-Network-Security-COMP-7003/week3/markus-afonso-lab-3.md",
+    "Introduction-to-Information-and-Network-Security-COMP-7003/week3/markus-afonso-lab-3.pdf",
+    "Calculus-for-Computing-MATH-7808/quiz2q3.py~",
+    "Introduction-to-Information-and-Network-Security-COMP-7003/inform-network-sec-7003.md",
+    "Introduction-to-Information-and-Network-Security-COMP-7003/week3/lab3/03-users-and-access-control-lab.pdf",
+    "Introduction-to-Information-and-Network-Security-COMP-7003/week2/markus-afonso-lab-2.pdf",
+    "Calculus-for-Computing-MATH-7808/Lecture 6.md",
+    "Calculus-for-Computing-MATH-7808/Lecture 5.md",
     "Calculus-for-Computing-MATH-7808/venv/lib/python3.14/site-packages/scipy-1.17.0.dist-info/RECORDmzpl0btp.tmp",
     "Calculus-for-Computing-MATH-7808/venv/lib/python3.14/site-packages/scipy-1.17.0.dist-info/REQUESTED",
     "Calculus-for-Computing-MATH-7808/venv/lib/python3.14/site-packages/scipy-1.17.0.dist-info/INSTALLER",
     "Calculus-for-Computing-MATH-7808/venv/lib/python3.14/site-packages/scipy-1.17.0.dist-info/INSTALLERi0dzh8_y.tmp",
     "Calculus-for-Computing-MATH-7808/venv/lib/python3.14/site-packages/scipy/__pycache__/version.cpython-314.pyc",
-    "Calculus-for-Computing-MATH-7808/venv/lib/python3.14/site-packages/scipy/stats/tests/__pycache__/test_variation.cpython-314.pyc",
-    "Calculus-for-Computing-MATH-7808/venv/lib/python3.14/site-packages/scipy/stats/tests/__pycache__/test_tukeylambda_stats.cpython-314.pyc",
-    "Calculus-for-Computing-MATH-7808/venv/lib/python3.14/site-packages/scipy/stats/tests/__pycache__/test_survival.cpython-314.pyc",
-    "Calculus-for-Computing-MATH-7808/venv/lib/python3.14/site-packages/scipy/stats/tests/__pycache__/test_stats.cpython-314.pyc",
-    "Calculus-for-Computing-MATH-7808/venv/lib/python3.14/site-packages/scipy/stats/tests/__pycache__/test_stats.cpython-314.pyc.131984531386032",
-    "Calculus-for-Computing-MATH-7808/venv/lib/python3.14/site-packages/scipy/stats/tests/__pycache__/test_sensitivity_analysis.cpython-314.pyc",
     "Calculus-for-Computing-MATH-7808/venv/lib/python3.14/site-packages/scipy/ndimage/tests/dots.png",
     "Calculus-for-Computing-MATH-7808/venv/lib/python3.14/site-packages/scipy/fft/_pocketfft/LICENSE.md",
     "Calculus-for-Computing-MATH-7808/venv/lib/python3.14/site-packages/numpy-2.4.1.dist-info/licenses/numpy/_core/src/npysort/x86-simd-sort/LICENSE.md",
@@ -221,18 +237,13 @@
     "Calculus-for-Computing-MATH-7808/venv/lib/python3.14/site-packages/numpy/random/LICENSE.md",
     "Calculus-for-Computing-MATH-7808/venv/lib/python3.14/site-packages/pip-25.3.dist-info/licenses/src/pip/_vendor/idna/LICENSE.md",
     "Calculus-for-Computing-MATH-7808/venv/lib/python3.14/site-packages/pip/_vendor/idna/LICENSE.md",
-    "Calculus-for-Computing-MATH-7808/Lecture 6.md",
-    "Calculus-for-Computing-MATH-7808/Lecture 5.md",
     "Software-Engineering-COMP-7082/SWE.md",
-    "Introduction-to-Information-and-Network-Security-COMP-7003/week3/markus-afonso-lab-3.md",
     "usermod.md",
     "Introduction-to-Information-and-Network-Security-COMP-7003/week2/mds/markus-afonso-lab-2.md",
     "Introduction-to-Information-and-Network-Security-COMP-7003/week3/lab3/mds/02-users-and-access-control-lab-introduction.md",
     "Introduction-to-Information-and-Network-Security-COMP-7003/week3/lab3/mds/04-users-and-access-control-lab-conclusion.md",
     "Introduction-to-Information-and-Network-Security-COMP-7003/week3/lab3/mds/03-users-and-access-control-lab.md",
     "Introduction-to-Information-and-Network-Security-COMP-7003/week3/mds/06-users-and-groups-job-readiness-companion.md",
-    "Introduction-to-Information-and-Network-Security-COMP-7003/week3/mds/03 - COMP 7003.md",
-    "Introduction-to-Information-and-Network-Security-COMP-7003/week3/mds/05-users-and-access-control-study-guide.md",
     "imgs/Pasted image 20260116132403.png",
     "imgs/Pasted image 20260116132401 1.png",
     "imgs/Pasted image 20260116132401.png",

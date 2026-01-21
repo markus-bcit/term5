@@ -227,37 +227,76 @@ drwxr-xr-x 36 markus markus  4096 Jan 20 13:20 ../
 
 **Explanation:**
 - What does **execute** permission mean on a directory?
+	- `x` permissions means the user/group can execute command against the directory like `cd` but doesn't allow read commands like `ls`
 - Why are **listing** and **entering** different actions?
-
+	- Listing requires read permissions, entering requires execute permissions.
 ---
 
 ## Step 6: Translate Permissions to English
 **For every object created, write:**
-1. **Object Name:** 
-   - Owner: 
-   - Group: 
-   - **Sentence:** "The owner can [read/write/execute]. Members of [group] can [read/write/execute]. Others can [read/write/execute]."
+1. **Object Name:** `netsec-lab3/`
+   - Owner: `markus`
+   - Group: `lab3grp`
+   - **Sentence:** The owner can read, write, and execute. Members of `lab3grp` can read and execute. Others cannot access it.
 
-2. **Object Name:** 
-   - Owner: 
-   - Group: 
-   - **Sentence:** "The owner can [read/write/execute]. Members of [group] can [read/write/execute]. Others can [read/write/execute]."
+1. **Object Name:**  `netsec-lab3/file`
+   - Owner: `markus`
+   - Group: `lab3grp`
+   - **Sentence:** The owner can read and write. Members of `lab3grp` can read and write. Others cannot access it.
+
+3. **Object Name:** `netsec-lab3/subdir/`
+   - Owner: `markus`
+   - Group: `lab3grp`
+   - **Sentence:** "The owner can read, write, and execute. Members of `lab3grp` can enter but can't list contents. Others cannot access it."
+
+4. **Object Name:** `mystery/`
+   - Owner: `markus`
+   - Group: `lab3grp`
+   - **Sentence:** "The owner can read, write, and execute. Members of `lab3grp` can enter but can't list contents. Others cannot access it."
+
+5. **Object Name:** `mystery/canread`
+   - Owner: `markus`
+   - Group: `lab3grp`
+   - **Sentence:** "The owner can read, write, and execute. Members of `lab3grp` can read but only with the file name. Others cannot access it."
 
 ---
 
 ## Step 7: Clean Up
 **Commands used:**
-- Remove files/directories: 
-- Remove user: 
-- Remove group: 
+- Remove files/directories: `rm -rf netsec-lab3 mystery`
+- Remove user:  ` sudo userdel -r lab3user`
+- Remove group: `sudo groupdel lab3grp`
 
 **Verification:**
-- User exists? [ ]
-- Group exists? [ ]
-- Files remain? [ ]
+- User exists? 
+	- No
+```
+~ via 🐍 v3.14.2 
+❯ sudo userdel lab3user
+userdel: user 'lab3user' does not exist
+```
+- Group exists? 
+	- No
+```
+~ via 🐍 v3.14.2 
+❯ sudo groupdel lab3grp
+groupdel: group 'lab3grp' does not exist
+```
+- Files remain? 
+	- No
+```
+~ via 🐍 v3.14.2 
+❯ find mystery
+find: ‘mystery’: No such file or directory
 
+~ via 🐍 v3.14.2 
+❯ find netsec-lab3
+find: ‘netsec-lab3’: No such file or directory
+```
 ---
 
 ## Submission Summary
 - **One mistake you made and how testing revealed it:**
+	- Forgot that I created the `netsec-lab3` file in my home directory so when I switched to the `lab3user` I couldn't access it, just had to provide permissions. 
 - **Brief explanation of the mystery directory in plain language:**
+	- The directory acts a room with the lights off, if someone knows where to look (the name of the file) then they can read it, if not they can't see what the file is called.
