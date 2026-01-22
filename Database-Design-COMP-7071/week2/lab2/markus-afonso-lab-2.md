@@ -5,43 +5,31 @@
 
 ## 01. ERD Screenshot
 **Requirement:** Submit a screenshot that shows the ERD for the database.
-*(Insert `01_SaleCo_ERD.jpg` here)*
-
+01_SaleCo_ERD.jpg
+![[Pasted image 20260122083701.png]]
 ---
 
 ## 02. Scenario 2: Select Specific Columns
 **Requirement:** From the vendor table, retrieve all rows, but only the vendor name, areacode, phone, and state.
 
-```sql
-SELECT V_NAME, V_AREACODE, V_PHONE, V_STATE 
-FROM VENDOR;
-```
 *(Insert `02_Scenario_2.jpg` here)*
+![[Pasted image 20260122105915.png]]
 
 ---
 
 ## 03. Scenario 3: Derived Values (Concat)
 **Requirement:** For all customers, provide their name in the format "LastName, FirstName" and their full phone number (area code and phone number with a space in between).
 
-```sql
-SELECT 
-    CONCAT(CUS_LNAME, ', ', CUS_FNAME) AS "Name", 
-    CONCAT(CUS_AREACODE, ' ', CUS_PHONE) AS "Phone" 
-FROM CUSTOMER;
-```
 *(Insert `03_Scenario_3.jpg` here)*
+![[Pasted image 20260122104232.png]]
 
 ---
 
 ## 04. Scenario 4: Ordering Rows
 **Requirement:** Write a SQL query to show all the products (product code, description and price) ordered with the most expensive on the top.
 
-```sql
-SELECT P_CODE, P_DESCRIPT, P_PRICE 
-FROM PRODUCT 
-ORDER BY P_PRICE DESC;
-```
 *(Insert `04_Scenario_4.jpg` here)*
+![[Pasted image 20260122105100.png]]
 
 ---
 
@@ -54,6 +42,7 @@ FROM EMPLOYEE
 ORDER BY EMP_FNAME, EMP_INITIAL, EMP_LNAME;
 ```
 *(Insert `05_Scenario_5.jpg` here)*
+![[Pasted image 20260122110725.png]]
 
 ---
 
@@ -67,7 +56,7 @@ ORDER BY P_PRICE DESC
 LIMIT 3;
 ```
 *(Insert `06_Scenario_6.jpg` here)*
-
+![[Pasted image 20260122111017.png]]
 ---
 
 ## 07. Scenario 7A: Pattern Matching (LIKE)

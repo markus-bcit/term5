@@ -4,20 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "b18bea90bbaf4396",
+        "id": "a041902aebca6e06",
         "type": "tabs",
         "children": [
+          {
+            "id": "f010d0d8b2682e45",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Calculus-for-Computing-MATH-7808/Lecture 7.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Lecture 7"
+            }
+          },
+          {
+            "id": "7734a7ffbd60097d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Calculus-for-Computing-MATH-7808/Lecture 8.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Lecture 8"
+            }
+          },
           {
             "id": "b5bfe77e446ccae0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "pdf",
+              "state": {
+                "file": "Database-Design-COMP-7071/week2/lab2/Querying+the+Database+with+SELECT.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Querying+the+Database+with+SELECT"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -192,8 +219,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b5bfe77e446ccae0",
+  "active": "59fdc802cb72125f",
   "lastOpenFiles": [
+    "Database-Design-COMP-7071/week2/lab2/lab2.sql~",
+    "Database-Design-COMP-7071/week2/lab2/1",
+    "Calculus-for-Computing-MATH-7808/Lecture 7.md",
+    "Calculus-for-Computing-MATH-7808/Lecture 6.md",
+    "Calculus-for-Computing-MATH-7808/Lecture 8.md",
+    "Database-Design-COMP-7071/week2/lab2/Querying+the+Database+with+SELECT.pdf",
+    "Database-Design-COMP-7071/week2/lab2/markus-afonso-lab-2.md",
+    "imgs/Pasted image 20260122111017.png",
+    "imgs/Pasted image 20260122110725.png",
+    "imgs/Pasted image 20260122105915.png",
+    "imgs/Pasted image 20260122105100.png",
+    "imgs/Pasted image 20260122104232.png",
+    "imgs/Pasted image 20260122103323.png",
+    "imgs/Pasted image 20260122102436.png",
+    "Database-Design-COMP-7071/week2/lab2/lab2.sql.CTMVJ3",
+    "imgs/Pasted image 20260122084707.png",
+    "Database-Design-COMP-7071/week2/lab2/lab2.sql.LNT1J3",
+    "Database-Design-COMP-7071/week2/lab2/lab2.sql.OI1LJ3",
+    "imgs/Pasted image 20260122083701.png",
+    "Database-Design-COMP-7071/Database.md",
     "Software-Engineering-COMP-7082/SWE.md",
     "Software-Engineering-COMP-7082/blind_review_proposal.md",
     "Software-Engineering-COMP-7082/pitch-presentation-7082-winter-2026dbgroup1/mds/Blind Review.md",
@@ -201,22 +248,14 @@
     "Introduction-to-Information-and-Network-Security-COMP-7003/week3/mds/markus-afonso-lab-3.md",
     "Software-Engineering-COMP-7082/pitch-presentation-7082-winter-2026dbgroup1/Blind Review.pdf",
     "Software-Engineering-COMP-7082/pitch-presentation-7082-winter-2026dbgroup1/Unconfirmed 787563.crdownload",
-    "Calculus-for-Computing-MATH-7808/Lecture 7.md",
     "DueDates.md",
-    "Database-Design-COMP-7071/week2/lab2/Querying+the+Database+with+SELECT.pdf",
     "Operating-Systems-COMP-7035/week2/quiz1-attempt.md",
     "Calculus-for-Computing-MATH-7808/quiz2q3.py~",
     "Operating-Systems-COMP-7035/week2/quiz1.md",
-    "Database-Design-COMP-7071/week2/lab2/markus-afonso-lab-2.md",
     "Introduction-to-Information-and-Network-Security-COMP-7003/week3/markus-afonso-lab-3.md",
     "Introduction-to-Information-and-Network-Security-COMP-7003/week3/markus-afonso-lab-3.pdf",
     "Introduction-to-Information-and-Network-Security-COMP-7003/inform-network-sec-7003.md",
-    "Introduction-to-Information-and-Network-Security-COMP-7003/week3/lab3/03-users-and-access-control-lab.pdf",
-    "Introduction-to-Information-and-Network-Security-COMP-7003/week2/markus-afonso-lab-2.pdf",
-    "Calculus-for-Computing-MATH-7808/Lecture 6.md",
     "Calculus-for-Computing-MATH-7808/Lecture 5.md",
-    "Calculus-for-Computing-MATH-7808/venv/lib/python3.14/site-packages/scipy-1.17.0.dist-info/RECORDmzpl0btp.tmp",
-    "Calculus-for-Computing-MATH-7808/venv/lib/python3.14/site-packages/scipy-1.17.0.dist-info/REQUESTED",
     "Calculus-for-Computing-MATH-7808/venv/lib/python3.14/site-packages/scipy/ndimage/tests/dots.png",
     "Calculus-for-Computing-MATH-7808/venv/lib/python3.14/site-packages/scipy/fft/_pocketfft/LICENSE.md",
     "Calculus-for-Computing-MATH-7808/venv/lib/python3.14/site-packages/numpy-2.4.1.dist-info/licenses/numpy/_core/src/npysort/x86-simd-sort/LICENSE.md",
@@ -228,18 +267,6 @@
     "Calculus-for-Computing-MATH-7808/venv/lib/python3.14/site-packages/numpy-2.4.1.dist-info/licenses/numpy/random/src/distributions/LICENSE.md",
     "Calculus-for-Computing-MATH-7808/venv/lib/python3.14/site-packages/numpy-2.4.1.dist-info/licenses/numpy/fft/pocketfft/LICENSE.md",
     "Calculus-for-Computing-MATH-7808/venv/lib/python3.14/site-packages/numpy-2.4.1.dist-info/licenses/numpy/random/LICENSE.md",
-    "Calculus-for-Computing-MATH-7808/venv/lib/python3.14/site-packages/numpy/random/LICENSE.md",
-    "Calculus-for-Computing-MATH-7808/venv/lib/python3.14/site-packages/pip-25.3.dist-info/licenses/src/pip/_vendor/idna/LICENSE.md",
-    "Calculus-for-Computing-MATH-7808/venv/lib/python3.14/site-packages/pip/_vendor/idna/LICENSE.md",
-    "imgs/Pasted image 20260116132403.png",
-    "imgs/Pasted image 20260116132401 1.png",
-    "imgs/Pasted image 20260116132401.png",
-    "imgs/Pasted image 20260116132343.png",
-    "imgs/Pasted image 20260116132259.png",
-    "imgs/Pasted image 20260116132103.png",
-    "Database-Design-COMP-7071/week2/lab1/02_MySQL_Version_Command_Line.jpg",
-    "Database-Design-COMP-7071/week2/lab1/01_MySQL_Version_Workbench.jpg",
-    "Operating-Systems-COMP-7035/_old/Operating Systems/attachments/Pasted image 20250905133454.png",
     "Untitled.canvas"
   ]
 }
