@@ -32,3 +32,21 @@ print(bruteForce(1, 50, 0.0001, f))
 print("Max: ", end='')
 print(bruteForce(6, 50, 0.0001, f))
 
+def trisention(xL, xR, prec, f):
+    
+    while xR-xL > prec:
+        df0 = 0
+        df1 = 0 
+        df2 = 0 
+        if df0*df1 <= 0:
+            xR = x2
+        elif df1*df2 <= 0:
+            xL = x1
+    return (xL+xR)/2
+
+
+print("Min: ", end='')
+print(trisention(1, 50, 0.0001, f))
+print("Max: ", end='')
+print(trisention(1, 50, 0.0001, f))
+

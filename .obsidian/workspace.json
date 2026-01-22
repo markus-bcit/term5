@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "347ad144a18b0ec8",
+        "id": "b18bea90bbaf4396",
         "type": "tabs",
         "children": [
           {
-            "id": "8ab879db2911f7c2",
+            "id": "b5bfe77e446ccae0",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Database-Design-COMP-7071/week2/lab2/Querying+the+Database+with+SELECT.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Querying+the+Database+with+SELECT"
-            }
-          },
-          {
-            "id": "aa276d091be9a494",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Database-Design-COMP-7071/week2/lab2/Querying+the+Database+with+SELECT.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Querying+the+Database+with+SELECT"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -202,17 +188,28 @@
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8ab879db2911f7c2",
+  "active": "b5bfe77e446ccae0",
   "lastOpenFiles": [
-    "Database-Design-COMP-7071/week2/lab2/markus-afonso-lab-2.md",
+    "Software-Engineering-COMP-7082/SWE.md",
+    "Software-Engineering-COMP-7082/blind_review_proposal.md",
+    "Software-Engineering-COMP-7082/pitch-presentation-7082-winter-2026dbgroup1/mds/Blind Review.md",
+    "Software-Engineering-COMP-7082/pitch-presentation-7082-winter-2026dbgroup1/mds",
+    "Introduction-to-Information-and-Network-Security-COMP-7003/week3/mds/markus-afonso-lab-3.md",
+    "Software-Engineering-COMP-7082/pitch-presentation-7082-winter-2026dbgroup1/Blind Review.pdf",
+    "Software-Engineering-COMP-7082/pitch-presentation-7082-winter-2026dbgroup1/Unconfirmed 787563.crdownload",
+    "Calculus-for-Computing-MATH-7808/Lecture 7.md",
+    "DueDates.md",
     "Database-Design-COMP-7071/week2/lab2/Querying+the+Database+with+SELECT.pdf",
+    "Operating-Systems-COMP-7035/week2/quiz1-attempt.md",
+    "Calculus-for-Computing-MATH-7808/quiz2q3.py~",
+    "Operating-Systems-COMP-7035/week2/quiz1.md",
+    "Database-Design-COMP-7071/week2/lab2/markus-afonso-lab-2.md",
     "Introduction-to-Information-and-Network-Security-COMP-7003/week3/markus-afonso-lab-3.md",
     "Introduction-to-Information-and-Network-Security-COMP-7003/week3/markus-afonso-lab-3.pdf",
-    "Calculus-for-Computing-MATH-7808/quiz2q3.py~",
     "Introduction-to-Information-and-Network-Security-COMP-7003/inform-network-sec-7003.md",
     "Introduction-to-Information-and-Network-Security-COMP-7003/week3/lab3/03-users-and-access-control-lab.pdf",
     "Introduction-to-Information-and-Network-Security-COMP-7003/week2/markus-afonso-lab-2.pdf",
@@ -220,9 +217,6 @@
     "Calculus-for-Computing-MATH-7808/Lecture 5.md",
     "Calculus-for-Computing-MATH-7808/venv/lib/python3.14/site-packages/scipy-1.17.0.dist-info/RECORDmzpl0btp.tmp",
     "Calculus-for-Computing-MATH-7808/venv/lib/python3.14/site-packages/scipy-1.17.0.dist-info/REQUESTED",
-    "Calculus-for-Computing-MATH-7808/venv/lib/python3.14/site-packages/scipy-1.17.0.dist-info/INSTALLER",
-    "Calculus-for-Computing-MATH-7808/venv/lib/python3.14/site-packages/scipy-1.17.0.dist-info/INSTALLERi0dzh8_y.tmp",
-    "Calculus-for-Computing-MATH-7808/venv/lib/python3.14/site-packages/scipy/__pycache__/version.cpython-314.pyc",
     "Calculus-for-Computing-MATH-7808/venv/lib/python3.14/site-packages/scipy/ndimage/tests/dots.png",
     "Calculus-for-Computing-MATH-7808/venv/lib/python3.14/site-packages/scipy/fft/_pocketfft/LICENSE.md",
     "Calculus-for-Computing-MATH-7808/venv/lib/python3.14/site-packages/numpy-2.4.1.dist-info/licenses/numpy/_core/src/npysort/x86-simd-sort/LICENSE.md",
@@ -237,13 +231,6 @@
     "Calculus-for-Computing-MATH-7808/venv/lib/python3.14/site-packages/numpy/random/LICENSE.md",
     "Calculus-for-Computing-MATH-7808/venv/lib/python3.14/site-packages/pip-25.3.dist-info/licenses/src/pip/_vendor/idna/LICENSE.md",
     "Calculus-for-Computing-MATH-7808/venv/lib/python3.14/site-packages/pip/_vendor/idna/LICENSE.md",
-    "Software-Engineering-COMP-7082/SWE.md",
-    "usermod.md",
-    "Introduction-to-Information-and-Network-Security-COMP-7003/week2/mds/markus-afonso-lab-2.md",
-    "Introduction-to-Information-and-Network-Security-COMP-7003/week3/lab3/mds/02-users-and-access-control-lab-introduction.md",
-    "Introduction-to-Information-and-Network-Security-COMP-7003/week3/lab3/mds/04-users-and-access-control-lab-conclusion.md",
-    "Introduction-to-Information-and-Network-Security-COMP-7003/week3/lab3/mds/03-users-and-access-control-lab.md",
-    "Introduction-to-Information-and-Network-Security-COMP-7003/week3/mds/06-users-and-groups-job-readiness-companion.md",
     "imgs/Pasted image 20260116132403.png",
     "imgs/Pasted image 20260116132401 1.png",
     "imgs/Pasted image 20260116132401.png",
