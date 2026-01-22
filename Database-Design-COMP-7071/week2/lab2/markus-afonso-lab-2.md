@@ -68,6 +68,7 @@ FROM PRODUCT
 WHERE P_DESCRIPT LIKE '%saw%';
 ```
 *(Insert `07_Scenario_7A.jpg` here)*
+![[Pasted image 20260122134650.png]]
 
 ---
 
@@ -81,6 +82,7 @@ WHERE P_DESCRIPT LIKE '%hammer%'
 AND V_CODE IS NOT NULL;
 ```
 *(Insert `08_Scenario_7B.jpg` here)*
+![[Pasted image 20260122134856.png]]
 
 ---
 
@@ -93,7 +95,7 @@ FROM EMPLOYEE
 WHERE EMP_TITLE IN ('Ms.', 'Mrs.');
 ```
 *(Insert `09_Scenario_7C.jpg` here)*
-
+![[Pasted image 20260122135245.png]]
 ---
 
 ## 10. Scenario 7D: Range Check (BETWEEN)
@@ -105,7 +107,7 @@ FROM PRODUCT
 WHERE P_PRICE BETWEEN 20 AND 50;
 ```
 *(Insert `10_Scenario_7D.jpg` here)*
-
+![[Pasted image 20260122140301.png]]
 ---
 
 ## 11. Scenario 8A: Aggregates (MIN/MAX)
@@ -118,7 +120,7 @@ SELECT
 FROM CUSTOMER;
 ```
 *(Insert `11_Scenario_8A.jpg` here)*
-
+![[Pasted image 20260122140538.png]]
 ---
 
 ## 12. Scenario 8B: Aggregates (COUNT)
@@ -129,6 +131,7 @@ SELECT COUNT(V_CODE) AS "Products with Vendors"
 FROM PRODUCT;
 ```
 *(Insert `12_Scenario_8B.jpg` here)*
+![[Pasted image 20260122140707.png]]
 
 ---
 
@@ -141,6 +144,7 @@ FROM CUSTOMER
 GROUP BY CUS_AREACODE;
 ```
 *(Insert `13_Scenario_9A.jpg` here)*
+![[Pasted image 20260122141120.png]]
 
 ---
 
@@ -154,7 +158,7 @@ WHERE EMP_TITLE IN ('Mr.', 'Ms.', 'Mrs.')
 GROUP BY EMP_TITLE;
 ```
 *(Insert `14_Scenario_9B.jpg` here)*
-
+![[Pasted image 20260122141837.png]]x`
 ---
 
 ## 15. Scenario 10: Having Clause
@@ -167,3 +171,4 @@ GROUP BY INV_NUMBER
 HAVING SUM(LINE_UNITS * LINE_PRICE) > 100;
 ```
 *(Insert `15_Scenario_10.jpg` here)*
+![[Pasted image 20260122142746.png]]
