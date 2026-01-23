@@ -1,3 +1,6 @@
+# Added By User
+- Take your time to fully extract text from images in slides or pdfs, they're the source of truth for a given topic, clarify with the user if needed.
+
 # OS Quiz Prep & Observations
 
 This file tracks specific phrasing and patterns observed in quizzes/practice to match the instructor's strict expectations.
