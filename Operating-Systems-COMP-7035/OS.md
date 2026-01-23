@@ -29,3 +29,7 @@ Week 2
 		- some of the OS, which one windows uses, linux uses etc.
 	- 1:m and m:n probs not on quiz
 	- 
+--- 
+Week 3
+- Semaphore, not need to know
+- 
