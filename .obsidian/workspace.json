@@ -11,12 +11,14 @@
             "id": "32d981b7d02aa625",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Operating-Systems-COMP-7035/week3/lab3/Lab3.pdf"
+                "file": "GEMINI.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Lab3"
+              "icon": "lucide-file",
+              "title": "GEMINI"
             }
           }
         ]
@@ -96,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "53d044354293fc19",
@@ -217,11 +218,15 @@
   },
   "active": "32d981b7d02aa625",
   "lastOpenFiles": [
+    "misc.md",
+    "DueDates.md",
+    "usermod.md",
+    "Operating-Systems-COMP-7035/week3/Week3_Concurrency1.pdf",
+    "Operating-Systems-COMP-7035/week3/markus-afonso-lab-3.md",
+    "Operating-Systems-COMP-7035/week3/lab3/Lab3.pdf",
     "Operating-Systems-COMP-7035/week3/lab3/q1.c~",
     "Operating-Systems-COMP-7035/week3/lab3/a.out",
     "Operating-Systems-COMP-7035/week3/lab3/q1.c",
-    "Operating-Systems-COMP-7035/week3/markus-afonso-lab-3.md",
-    "Operating-Systems-COMP-7035/week3/lab3/Lab3.pdf",
     "Database-Design-COMP-7071/week2/lab2/markus-afonso-lab-2.md",
     "Operating-Systems-COMP-7035/OS.md",
     "Operating-Systems-COMP-7035/week2/Week2_part2.pdf",
@@ -231,9 +236,7 @@
     "Operating-Systems-COMP-7035/week2/markus-afonso-lab-2.md",
     "Database-Design-COMP-7071/week2/lab2/Querying+the+Database+with+SELECT.pdf",
     "Introduction-to-Information-and-Network-Security-COMP-7003/week2/mds/markus-afonso-lab-2.md",
-    "Operating-Systems-COMP-7035/week3/Week3_Concurrency1.pdf",
     "Operating-Systems-COMP-7035/week3/Unconfirmed 623720.crdownload",
-    "Database-Design-COMP-7071/week3/join_SQL.pdf",
     "Operating-Systems-COMP-7035/week2/GEMINI-Week2-QuizPrep.md",
     "Operating-Systems-COMP-7035/week2/quiz1.md",
     "Operating-Systems-COMP-7035/GEMINI-OS.md",
@@ -255,14 +258,12 @@
     "Software-Engineering-COMP-7082/blind_review_proposal.md",
     "Software-Engineering-COMP-7082/pitch-presentation-7082-winter-2026dbgroup1/mds/Blind Review.md",
     "Introduction-to-Information-and-Network-Security-COMP-7003/week3/mds/markus-afonso-lab-3.md",
-    "DueDates.md",
     "Operating-Systems-COMP-7035/week2/quiz1-attempt.md",
     "Introduction-to-Information-and-Network-Security-COMP-7003/week3/markus-afonso-lab-3.md",
     "Introduction-to-Information-and-Network-Security-COMP-7003/inform-network-sec-7003.md",
     "Calculus-for-Computing-MATH-7808/Lecture 5.md",
     "Calculus-for-Computing-MATH-7808/venv/lib/python3.14/site-packages/scipy/fft/_pocketfft/LICENSE.md",
     "Calculus-for-Computing-MATH-7808/venv/lib/python3.14/site-packages/numpy-2.4.1.dist-info/licenses/numpy/_core/src/npysort/x86-simd-sort/LICENSE.md",
-    "Calculus-for-Computing-MATH-7808/venv/lib/python3.14/site-packages/numpy-2.4.1.dist-info/licenses/numpy/random/src/splitmix64/LICENSE.md",
     "Untitled.canvas"
   ]
 }
