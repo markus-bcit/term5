@@ -6,3 +6,12 @@
 ---
 Day 2
 went over bluetooth paper, talked about linux, key protocols etc.
+
+---
+Day 3
+
+---
+Day 4
+- where passwords are stored, some info about etc.
+- hashing, salt hashing
+- 

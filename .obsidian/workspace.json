@@ -4,41 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "cf4e3ba246d9058c",
+        "id": "4451ca32200f531e",
         "type": "tabs",
         "children": [
           {
-            "id": "32d981b7d02aa625",
+            "id": "bbdf054e1576dfc3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Database-Design-COMP-7071/Database.md",
-                "mode": "source",
-                "source": false
+                "file": "Introduction-to-Information-and-Network-Security-COMP-7003/week4/lab4/03-passwords-and-logins-lab.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Database"
+              "icon": "lucide-file-text",
+              "title": "03-passwords-and-logins-lab"
             }
           }
         ]
       },
       {
-        "id": "69a43e2eb419ef3c",
+        "id": "ea35b76c178d11fa",
         "type": "tabs",
         "children": [
           {
-            "id": "fad170320e9d5417",
+            "id": "6f0e3e42f4c1c314",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating-Systems-COMP-7035/week3/markus-afonso-lab-3.md",
+                "file": "Introduction-to-Information-and-Network-Security-COMP-7003/week4/markus-afonso-lab-4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "markus-afonso-lab-3"
+              "title": "markus-afonso-lab-4"
             }
           }
         ]
@@ -73,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:database",
+                "query": "file:mat",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,8 +92,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -217,27 +214,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "32d981b7d02aa625",
+  "active": "6f0e3e42f4c1c314",
   "lastOpenFiles": [
-    "Operating-Systems-COMP-7035/matching-algo.md",
-    "Software-Engineering-COMP-7082/pitch-presentation-7082-winter-2026dbgroup1/Blind Review.pptx",
-    "Software-Engineering-COMP-7082/pitch-presentation-7082-winter-2026dbgroup1/Blind Review.pdf",
+    "Introduction-to-Information-and-Network-Security-COMP-7003/week4/workingdir/hash.txt",
+    "Introduction-to-Information-and-Network-Security-COMP-7003/week4/lab4/03-passwords-and-logins-lab.pdf",
+    "Introduction-to-Information-and-Network-Security-COMP-7003/week2/markus-afonso-lab-2.pdf",
+    "Introduction-to-Information-and-Network-Security-COMP-7003/week4/markus-afonso-lab-4.md",
+    "Introduction-to-Information-and-Network-Security-COMP-7003/week4/workingdir/wordlist",
+    "Introduction-to-Information-and-Network-Security-COMP-7003/week4/workingdir",
+    "Introduction-to-Information-and-Network-Security-COMP-7003/week4/lab4/02-passwords-and-logins-lab-introduction.pdf",
+    "Introduction-to-Information-and-Network-Security-COMP-7003/inform-network-sec-7003.md",
+    "Calculus-for-Computing-MATH-7808/Lecture 7.md",
+    "Calculus-for-Computing-MATH-7808/Lecture 8.md",
     "Calculus-for-Computing-MATH-7808/Math.md",
+    "Introduction-to-Information-and-Network-Security-COMP-7003/week3/markus-afonso-lab-3.md",
+    "Introduction-to-Information-and-Network-Security-COMP-7003/week4/Table of Contents.html",
+    "Introduction-to-Information-and-Network-Security-COMP-7003/week4/06-passwords-and-logins-job-readiness-companion.pdf",
+    "Introduction-to-Information-and-Network-Security-COMP-7003/week4/05-passwords-and-logins-study-guide.pdf",
+    "Introduction-to-Information-and-Network-Security-COMP-7003/week4/04 - COMP 7003.pdf",
+    "Introduction-to-Information-and-Network-Security-COMP-7003/week4/01-passwords-and-logins-notes.pdf",
+    "Software-Engineering-COMP-7082/SWE.md",
+    "Database-Design-COMP-7071/Database.md",
+    "Operating-Systems-COMP-7035/matching-algo.md",
     "GEMINI.md",
-    "Calculus-for-Computing-MATH-7808/quiz2q3.py~",
     "misc.md",
     "DueDates.md",
     "usermod.md",
-    "Operating-Systems-COMP-7035/week3/Week3_Concurrency1.pdf",
     "Operating-Systems-COMP-7035/week3/markus-afonso-lab-3.md",
-    "Operating-Systems-COMP-7035/week3/lab3/Lab3.pdf",
-    "Operating-Systems-COMP-7035/week3/lab3/q1.c~",
-    "Operating-Systems-COMP-7035/week3/lab3/a.out",
-    "Operating-Systems-COMP-7035/week3/lab3/q1.c",
     "Database-Design-COMP-7071/week2/lab2/markus-afonso-lab-2.md",
     "Operating-Systems-COMP-7035/OS.md",
-    "Operating-Systems-COMP-7035/week2/Week2_part2.pdf",
-    "Operating-Systems-COMP-7035/week2/Week2_part1.pdf",
     "Operating-Systems-COMP-7035/week2/markus-afonso-lab-2.md",
     "Introduction-to-Information-and-Network-Security-COMP-7003/week2/mds/markus-afonso-lab-2.md",
     "Operating-Systems-COMP-7035/week2/GEMINI-Week2-QuizPrep.md",
@@ -253,18 +258,10 @@
     "imgs/Pasted image 20260122134856.png",
     "imgs/Pasted image 20260122134650.png",
     "imgs/Pasted image 20260122134516.png",
-    "Calculus-for-Computing-MATH-7808/Lecture 8.md",
-    "Calculus-for-Computing-MATH-7808/Lecture 7.md",
     "Calculus-for-Computing-MATH-7808/Lecture 6.md",
-    "Database-Design-COMP-7071/Database.md",
-    "Software-Engineering-COMP-7082/SWE.md",
     "Software-Engineering-COMP-7082/blind_review_proposal.md",
     "Software-Engineering-COMP-7082/pitch-presentation-7082-winter-2026dbgroup1/mds/Blind Review.md",
     "Introduction-to-Information-and-Network-Security-COMP-7003/week3/mds/markus-afonso-lab-3.md",
-    "Operating-Systems-COMP-7035/week2/quiz1-attempt.md",
-    "Introduction-to-Information-and-Network-Security-COMP-7003/week3/markus-afonso-lab-3.md",
-    "Introduction-to-Information-and-Network-Security-COMP-7003/inform-network-sec-7003.md",
-    "Calculus-for-Computing-MATH-7808/Lecture 5.md",
     "Untitled.canvas"
   ]
 }
