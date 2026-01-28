@@ -79,16 +79,21 @@ $6$5AnXfOatz9PMlE/b$vUkU.RTDABLSKjlN3eLS0qrkaaA5wJTZFcp1cQmHzKlBctVPvXACAxV99Chs
    1800 | sha512crypt $6$, SHA512 (Unix)  | Operating System
 ```
 - Full command line used: 
-- 
+```
+❯ hashcat -m 1800 -a 0 hash.txt wordlist
+```
 
 **Results:**:
 - Did it crack? 
+	- Yes
 - Password recovered? 
+	- Yes, it discovered it was `password`.
 
 **Deliverable 4 (Short Paragraph):**
 - What does this demonstrate about common-password risk?
+	- Since it common password, it's very likely that the million word list we used contains the password. This concept also applied for any other authentication system, not just linux, any password anywhere.  
 - What does it demonstrate about choosing passwords that humans can reproduce?
-- **Answer:** 
+	- Humans aren't good at creating passwords, often using birthdays, related words etc. that're easily discover able by an attacker.
 
 ---
 
