@@ -68,10 +68,18 @@ $6$5AnXfOatz9PMlE/b$vUkU.RTDABLSKjlN3eLS0qrkaaA5wJTZFcp1cQmHzKlBctVPvXACAxV99Chs
 **Setup:**
 - Wordlist used: `https://github.com/danielmiessler/SecLists/blob/master/Passwords/Common-Credentials/Pwdb_top-10000000.txt`
 - Hashcat mode selected: 
-	- Couldn't find a hashcat mode since the password is hashed using `yescrypt` which this version of hashcat doesn't support.
+	- Couldn't find a hashcat mode since the password is hashed using `yescrypt` which hashcat doesn't support.
+		- Correction, seems like there is support but set up is quite in depth, beyond what I think is reasonable for this lab, some more info [here](https://github.com/hashcat/hashcat/blob/master/docs/hashcat-python-plugin-quickstart.md)
 	- Had to go back and change the hash type for the password
-	- 
+	- Looks like it should be 1800, so going with that
+```
+❯ hashcat -h | grep "SHA512"
+   ...
+   7100 | macOS v10.8+ (PBKDF2-SHA512)    | Operating System
+   1800 | sha512crypt $6$, SHA512 (Unix)  | Operating System
+```
 - Full command line used: 
+- 
 
 **Results:**:
 - Did it crack? 
