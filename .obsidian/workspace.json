@@ -18,21 +18,28 @@
               "icon": "lucide-file-text",
               "title": "03-passwords-and-logins-lab"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "06db18b216d07e97",
+        "type": "tabs",
+        "children": [
           {
-            "id": "b6ed63378d95459c",
+            "id": "30cdc22d602ecc18",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Calculus-for-Computing-MATH-7808/Lecture 9.md"
+                "file": "Software-Engineering-COMP-7082/SWE.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Lecture 9"
+              "icon": "lucide-file",
+              "title": "SWE"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -64,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:mat",
+                "query": "file:SWE",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +92,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -207,25 +215,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "59fdc802cb72125f",
+  "active": "30cdc22d602ecc18",
   "lastOpenFiles": [
+    "Software-Engineering-COMP-7082/week4/system-modeling-markus-bcit/starter_code/system_modeling_starter.py~",
+    "Software-Engineering-COMP-7082/week4/system-modeling-markus-bcit/starter_code/system_modeling_starter.py",
+    "Software-Engineering-COMP-7082/week4/system-modeling-markus-bcit/starter_code",
+    "Software-Engineering-COMP-7082/week4/system-modeling-markus-bcit/System-Modeling-Activity.docx",
+    "Software-Engineering-COMP-7082/week4/system-modeling-markus-bcit/README.md",
+    "Software-Engineering-COMP-7082/week4/system-modeling-markus-bcit",
     "Introduction-to-Information-and-Network-Security-COMP-7003/week4/markus-afonso-lab-4.md",
+    "Introduction-to-Information-and-Network-Security-COMP-7003/week4/markus-afonso-lab-4.pdf",
+    "imgs/Pasted image 20260128132716.png",
+    "Introduction-to-Information-and-Network-Security-COMP-7003/week4/lab4/03-passwords-and-logins-lab.pdf",
+    "imgs/Pasted image 20260128132020.png",
+    "Introduction-to-Information-and-Network-Security-COMP-7003/week4/workingdir/hash.txt",
+    "Introduction-to-Information-and-Network-Security-COMP-7003/week4/hash.txt",
     "Calculus-for-Computing-MATH-7808/Lecture 9.md",
     "Calculus-for-Computing-MATH-7808/Math.md",
     "Calculus-for-Computing-MATH-7808/Lecture 8.md",
     "Calculus-for-Computing-MATH-7808/Lecture 7.md",
-    "Introduction-to-Information-and-Network-Security-COMP-7003/week4/workingdir/hash.txt",
-    "Introduction-to-Information-and-Network-Security-COMP-7003/week4/lab4/03-passwords-and-logins-lab.pdf",
     "Introduction-to-Information-and-Network-Security-COMP-7003/week2/markus-afonso-lab-2.pdf",
     "Introduction-to-Information-and-Network-Security-COMP-7003/week4/workingdir/wordlist",
-    "Introduction-to-Information-and-Network-Security-COMP-7003/week4/workingdir",
-    "Introduction-to-Information-and-Network-Security-COMP-7003/week4/lab4/02-passwords-and-logins-lab-introduction.pdf",
     "Introduction-to-Information-and-Network-Security-COMP-7003/inform-network-sec-7003.md",
     "Introduction-to-Information-and-Network-Security-COMP-7003/week3/markus-afonso-lab-3.md",
-    "Introduction-to-Information-and-Network-Security-COMP-7003/week4/Table of Contents.html",
-    "Introduction-to-Information-and-Network-Security-COMP-7003/week4/06-passwords-and-logins-job-readiness-companion.pdf",
-    "Introduction-to-Information-and-Network-Security-COMP-7003/week4/05-passwords-and-logins-study-guide.pdf",
-    "Introduction-to-Information-and-Network-Security-COMP-7003/week4/04 - COMP 7003.pdf",
     "Software-Engineering-COMP-7082/SWE.md",
     "Database-Design-COMP-7071/Database.md",
     "Operating-Systems-COMP-7035/matching-algo.md",
@@ -249,12 +261,8 @@
     "imgs/Pasted image 20260122140301.png",
     "imgs/Pasted image 20260122135245.png",
     "imgs/Pasted image 20260122134856.png",
-    "imgs/Pasted image 20260122134650.png",
-    "imgs/Pasted image 20260122134516.png",
     "Calculus-for-Computing-MATH-7808/Lecture 6.md",
     "Software-Engineering-COMP-7082/blind_review_proposal.md",
-    "Software-Engineering-COMP-7082/pitch-presentation-7082-winter-2026dbgroup1/mds/Blind Review.md",
-    "Introduction-to-Information-and-Network-Security-COMP-7003/week3/mds/markus-afonso-lab-3.md",
     "Untitled.canvas"
   ]
 }

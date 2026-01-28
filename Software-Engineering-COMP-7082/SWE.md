@@ -9,3 +9,6 @@
 - 
 
 - No lab Jan 8
+---
+Final stuff
+- Draw one of the diagrams from week4

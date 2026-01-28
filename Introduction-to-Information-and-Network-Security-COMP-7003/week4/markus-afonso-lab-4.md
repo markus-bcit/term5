@@ -38,12 +38,12 @@ labuser:x:1001:1001::/home/labuser:/bin/sh
   - Line: 
 ```
 ❯ sudo grep '^labuser:' /etc/shadow
-labuser:$y$j9T$nUetyViZWM42bei0l3jtO/$iyLznu6lMPKOq9isz1ZQQPD8OyU.bDGDD1uVJ7iXtn3:20480:0:99999:7:::
+labuser:$y$j9T$...
 ```
 > After switching to `SHA512`
 ```
 ❯ sudo grep '^labuser:' /etc/shadow
-labuser:$6$5AnXfOatz9PMlE/b$vUkU.RTDABLSKjlN3eLS0qrkaaA5wJTZFcp1cQmHzKlBctVPvXACAxV99Chs2GPi0.K3uCFRkZcOoBAxJPMMQ0:20480:0:99999:7:::
+labuser:$6$5AnXfOatz9PMlE/b$...
 ```
 **Identify the hash scheme:**
 - Hash scheme ID found : `$y$`, After switching `$6$`
@@ -57,7 +57,7 @@ labuser:$6$5AnXfOatz9PMlE/b$vUkU.RTDABLSKjlN3eLS0qrkaaA5wJTZFcp1cQmHzKlBctVPvXAC
 ❯ cat hash.txt
 $y$j9T$nUeFtyViZWM42bei0l3jtO/$iyLznu6lMPKOq9isz1ZQQPD8OyU.bDGDD1uVJ7iXtn3
 ```
-
+> After switching to `SHA512`
 ```
 ❯ cat hash.txt 
 $6$5AnXfOatz9PMlE/b$vUkU.RTDABLSKjlN3eLS0qrkaaA5wJTZFcp1cQmHzKlBctVPvXACAxV99Chs2GPi0.K3uCFRkZcOoBAxJPMMQ0
@@ -66,7 +66,10 @@ $6$5AnXfOatz9PMlE/b$vUkU.RTDABLSKjlN3eLS0qrkaaA5wJTZFcp1cQmHzKlBctVPvXACAxV99Chs
 
 ## Step 4: Dictionary cracking with Hashcat
 **Setup:**
-- Wordlist used: `https://github.com/danielmiessler/SecLists/blob/master/Passwords/Common-Credentials/Pwdb_top-10000000.txt`
+- Wordlist used: 
+```
+❯ curl https://raw.githubusercontent.com/danielmiessler/SecLists/refs/heads/master/Passwords/Common-Credentials/Pwdb_top-10000000.txt >> wordlist
+```
 - Hashcat mode selected: 
 	- Couldn't find a hashcat mode since the password is hashed using `yescrypt` which hashcat doesn't support.
 		- Correction, seems like there is support but set up is quite in depth, beyond what I think is reasonable for this lab, some more info [here](https://github.com/hashcat/hashcat/blob/master/docs/hashcat-python-plugin-quickstart.md)
@@ -102,28 +105,25 @@ $6$5AnXfOatz9PMlE/b$vUkU.RTDABLSKjlN3eLS0qrkaaA5wJTZFcp1cQmHzKlBctVPvXACAxV99Chs
 - Search space: Digits only, length 4-6.
 
 **Command used:**
-- 
+```
+❯ hashcat -m 1800 -a 3 hash.txt \?d\?d\?d\?d\?d\?d --increment
+```
 
 **Deliverable 5 (One Sentence):**
-- Compare dictionary cracking vs. brute force.
-- **Answer:** 
+- Compare dictionary cracking vs. brute force:
+	- Brute force took much longer, around 37 seconds, whereas dictionary was like 1 second.
 
 ---
 
 ## Step 6: Cleanup
 **Lock and Remove Account:**
 - Commands used: 
+```
+❯ sudo passwd -l labuser
 
+❯ sudo userdel -r labuser
+```
 **Deliverable 6 (Evidence):**
 - Run `getent passwd labuser`.
 - Output (should be empty): 
-
----
-
-## Submission Checklist
-- [ ] /etc/passwd line included?
-- [ ] /etc/shadow line redacted correctly?
-- [ ] hash.txt content included?
-- [ ] Dictionary cracking reflection written?
-- [ ] Brute-force comparison sentence written?
-- [ ] Cleanup verified?
+![[Pasted image 20260128132716.png]]
